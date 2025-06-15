@@ -1,0 +1,1698 @@
+CustomerID,Name,Age,Game Played,Date,Amount Paid (P),Duration,Start Time,Rating (1-5)
+15,Kgomotso,15,FC25,9/23/2027,20,1 hour,7:00,3
+98,Fourty2,15,FC25,9/23/2027,20,1 hour,7:00,5
+85,Yeat,23,GTA V,9/23/2027,20,1 hour,7:00,3
+92,Lonely404,14,Mortal Kombat 7,9/23/2027,20,1 hour,7:00,4
+81,Pedri,30,WWE 2K25,9/23/2027,20,1 hour,7:00,4
+4,Boifihlo,28,WWE 2K25,9/23/2027,40,2 hours,7:00,4
+84,Alexis,10,WWE 2K25,9/23/2027,40,2 hours,7:00,4
+10,Kabelo,25,Mortal Kombat 7,9/23/2027,10,30 mins,7:00,4
+93,Trent,22,GTA V,9/23/2027,40,2 hours,8:00,4
+97,Jackson,21,GTA V,9/23/2027,40,2 hours,8:00,5
+94,Nunez,24,Mortal Kombat 7,9/23/2027,40,2 hours,8:00,3
+88,Joana,18,FC25,9/23/2027,10,30 mins,8:00,3
+91,Archieve,26,FC25,9/23/2027,10,30 mins,8:00,5
+82,DDG,26,GTA V,9/23/2027,10,30 mins,8:00,3
+95,Maguire,27,WWE 2K25,9/23/2027,10,30 mins,8:00,3
+83,Toliver,12,GTA V,9/23/2027,20,1 hour,9:00,4
+4,Boifihlo,28,GTA V,9/23/2027,10,30 mins,9:00,3
+7,Oba,16,GTA V,9/23/2027,20,1 hour,10:00,5
+12,Naledi,18,WWE 2K25,9/23/2027,20,1 hour,10:00,3
+9,Mpho,18,GTA V,9/23/2027,40,2 hours,10:00,3
+1,Tumelo,17,WWE 2K25,9/23/2027,40,2 hours,10:00,5
+4,Boifihlo,28,GTA V,9/23/2027,10,30 mins,10:00,5
+7,Oba,16,WWE 2K25,9/23/2027,10,30 mins,10:00,4
+89,Kat04,12,Mortal Kombat 7,9/23/2027,20,1 hour,11:00,4
+99,Pogba,18,Mortal Kombat 7,9/23/2027,20,1 hour,11:00,4
+89,Kat04,12,FC25,9/23/2027,40,2 hours,11:00,4
+95,Maguire,27,GTA V,9/23/2027,40,2 hours,11:00,4
+12,Naledi,18,Mortal Kombat 7,9/23/2027,10,30 mins,11:00,5
+85,Yeat,23,Mortal Kombat 7,9/23/2027,10,30 mins,11:00,5
+7,Oba,16,GTA V,9/23/2027,10,30 mins,12:00,4
+83,Toliver,12,GTA V,9/23/2027,10,30 mins,12:00,3
+1,Tumelo,17,WWE 2K25,9/23/2027,40,2 hours,13:00,4
+16,Dimakatso,18,FC25,9/23/2027,10,30 mins,13:00,3
+94,Nunez,24,FC25,9/23/2027,10,30 mins,13:00,5
+11,Neo,21,GTA V,9/23/2027,10,30 mins,13:00,5
+2,Lerato,20,Mortal Kombat 7,9/23/2027,20,1 hour,14:00,5
+92,Lonely404,14,Mortal Kombat 7,9/23/2027,20,1 hour,14:00,3
+100,Oteezy,20,Mortal Kombat 7,9/23/2027,20,1 hour,14:00,4
+97,Jackson,21,WWE 2K25,9/23/2027,20,1 hour,14:00,3
+94,Nunez,24,FC25,9/23/2027,40,2 hours,14:00,3
+90,Bendadon,25,GTA V,9/23/2027,40,2 hours,14:00,5
+96,Foden10,15,WWE 2K25,9/23/2027,40,2 hours,14:00,3
+91,Archieve,26,Mortal Kombat 7,9/23/2027,10,30 mins,14:00,4
+100,Oteezy,20,FC25,9/23/2027,20,1 hour,15:00,4
+81,Pedri,30,GTA V,9/23/2027,20,1 hour,15:00,5
+9,Mpho,18,WWE 2K25,9/23/2027,20,1 hour,15:00,3
+88,Joana,18,FC25,9/23/2027,40,2 hours,15:00,5
+93,Trent,22,Mortal Kombat 7,9/23/2027,40,2 hours,15:00,4
+13,Phetogo,20,FC25,9/23/2027,10,30 mins,15:00,5
+87,Cat44,15,GTA V,9/23/2027,10,30 mins,15:00,5
+98,Fourty2,15,WWE 2K25,9/23/2027,10,30 mins,15:00,4
+90,Bendadon,25,FC25,9/23/2027,20,1 hour,16:00,3
+11,Neo,21,FC25,9/23/2027,40,2 hours,16:00,4
+87,Cat44,15,FC25,9/23/2027,40,2 hours,16:00,5
+84,Alexis,10,Mortal Kombat 7,9/23/2027,10,30 mins,16:00,3
+9,Mpho,18,WWE 2K25,9/23/2027,10,30 mins,16:00,5
+94,Nunez,24,FC25,9/23/2027,20,1 hour,17:00,4
+10,Kabelo,25,GTA V,9/23/2027,20,1 hour,17:00,4
+86,Skhebo,25,FC25,9/23/2027,40,2 hours,17:00,5
+82,DDG,26,GTA V,9/23/2027,40,2 hours,17:00,5
+9,Mpho,18,FC25,9/23/2027,10,30 mins,17:00,4
+99,Pogba,18,GTA V,9/23/2027,20,1 hour,18:00,5
+96,Foden10,15,WWE 2K25,9/23/2027,20,1 hour,18:00,3
+9,Mpho,18,Mortal Kombat 7,9/23/2027,10,30 mins,18:00,5
+86,Skhebo,25,Mortal Kombat 7,9/23/2027,10,30 mins,18:00,3
+9,Mpho,18,Mortal Kombat 7,9/22/2027,20,1 hour,7:00,5
+9,Mpho,18,WWE 2K25,9/22/2027,40,2 hours,7:00,3
+7,Oba,16,FC25,9/22/2027,20,1 hour,8:00,5
+11,Neo,21,WWE 2K25,9/22/2027,40,2 hours,8:00,5
+90,Bendadon,25,WWE 2K25,9/22/2027,40,2 hours,8:00,4
+15,Kgomotso,15,WWE 2K25,9/22/2027,20,1 hour,9:00,5
+11,Neo,21,FC25,9/22/2027,40,2 hours,9:00,4
+81,Pedri,30,Mortal Kombat 7,9/22/2027,40,2 hours,9:00,5
+16,Dimakatso,18,WWE 2K25,9/22/2027,40,2 hours,9:00,5
+94,Nunez,24,WWE 2K25,9/22/2027,40,2 hours,9:00,5
+87,Cat44,15,GTA V,9/22/2027,20,1 hour,10:00,4
+11,Neo,21,FC25,9/22/2027,40,2 hours,10:00,4
+100,Oteezy,20,FC25,9/22/2027,40,2 hours,10:00,4
+10,Kabelo,25,GTA V,9/22/2027,40,2 hours,10:00,3
+99,Pogba,18,FC25,9/22/2027,10,30 mins,10:00,5
+96,Foden10,15,Mortal Kombat 7,9/22/2027,20,1 hour,11:00,4
+9,Mpho,18,WWE 2K25,9/22/2027,20,1 hour,11:00,3
+16,Dimakatso,18,GTA V,9/22/2027,40,2 hours,11:00,5
+7,Oba,16,Mortal Kombat 7,9/22/2027,40,2 hours,11:00,3
+85,Yeat,23,WWE 2K25,9/22/2027,40,2 hours,11:00,5
+95,Maguire,27,FC25,9/22/2027,10,30 mins,11:00,5
+84,Alexis,10,Mortal Kombat 7,9/22/2027,20,1 hour,12:00,5
+15,Kgomotso,15,WWE 2K25,9/22/2027,40,2 hours,12:00,4
+86,Skhebo,25,WWE 2K25,9/22/2027,10,30 mins,12:00,3
+95,Maguire,27,WWE 2K25,9/22/2027,10,30 mins,12:00,4
+97,Jackson,21,WWE 2K25,9/22/2027,10,30 mins,12:00,5
+99,Pogba,18,Mortal Kombat 7,9/22/2027,20,1 hour,13:00,4
+4,Boifihlo,28,WWE 2K25,9/22/2027,20,1 hour,13:00,5
+92,Lonely404,14,WWE 2K25,9/22/2027,20,1 hour,13:00,5
+82,DDG,26,Mortal Kombat 7,9/22/2027,40,2 hours,13:00,4
+88,Joana,18,FC25,9/22/2027,20,1 hour,14:00,4
+4,Boifihlo,28,GTA V,9/22/2027,20,1 hour,14:00,3
+92,Lonely404,14,WWE 2K25,9/22/2027,20,1 hour,14:00,5
+97,Jackson,21,WWE 2K25,9/22/2027,20,1 hour,14:00,5
+9,Mpho,18,FC25,9/22/2027,40,2 hours,14:00,3
+11,Neo,21,FC25,9/22/2027,40,2 hours,14:00,5
+94,Nunez,24,FC25,9/22/2027,40,2 hours,14:00,4
+12,Naledi,18,GTA V,9/22/2027,40,2 hours,14:00,4
+2,Lerato,20,Mortal Kombat 7,9/22/2027,40,2 hours,14:00,4
+98,Fourty2,15,GTA V,9/22/2027,10,30 mins,14:00,4
+98,Fourty2,15,Mortal Kombat 7,9/22/2027,10,30 mins,14:00,4
+94,Nunez,24,GTA V,9/22/2027,20,1 hour,15:00,5
+93,Trent,22,FC25,9/22/2027,20,1 hour,16:00,5
+4,Boifihlo,28,WWE 2K25,9/22/2027,20,1 hour,16:00,3
+94,Nunez,24,FC25,9/22/2027,40,2 hours,16:00,3
+7,Oba,16,Mortal Kombat 7,9/22/2027,40,2 hours,16:00,3
+2,Lerato,20,WWE 2K25,9/22/2027,40,2 hours,16:00,3
+93,Trent,22,WWE 2K25,9/22/2027,40,2 hours,16:00,3
+96,Foden10,15,GTA V,9/22/2027,10,30 mins,16:00,3
+13,Phetogo,20,WWE 2K25,9/22/2027,10,30 mins,16:00,4
+1,Tumelo,17,FC25,9/22/2027,40,2 hours,17:00,3
+7,Oba,16,WWE 2K25,9/22/2027,40,2 hours,17:00,3
+13,Phetogo,20,WWE 2K25,9/22/2027,10,30 mins,17:00,3
+91,Archieve,26,FC25,9/22/2027,20,1 hour,18:00,3
+89,Kat04,12,WWE 2K25,9/22/2027,20,1 hour,18:00,3
+83,Toliver,12,FC25,9/22/2027,10,30 mins,18:00,3
+100,Oteezy,20,Mortal Kombat 7,9/22/2027,10,30 mins,18:00,5
+9,Mpho,18,FC25,9/21/2027,20,1 hour,7:00,5
+86,Skhebo,25,FC25,9/21/2027,40,2 hours,7:00,4
+87,Cat44,15,FC25,9/21/2027,10,30 mins,7:00,3
+4,Boifihlo,28,Mortal Kombat 7,9/21/2027,10,30 mins,7:00,4
+11,Neo,21,Mortal Kombat 7,9/21/2027,10,30 mins,7:00,4
+89,Kat04,12,FC25,9/21/2027,20,1 hour,8:00,3
+10,Kabelo,25,WWE 2K25,9/21/2027,20,1 hour,8:00,5
+1,Tumelo,17,GTA V,9/21/2027,40,2 hours,8:00,3
+13,Phetogo,20,Mortal Kombat 7,9/21/2027,40,2 hours,8:00,4
+11,Neo,21,WWE 2K25,9/21/2027,40,2 hours,8:00,4
+95,Maguire,27,Mortal Kombat 7,9/21/2027,10,30 mins,8:00,4
+9,Mpho,18,WWE 2K25,9/21/2027,10,30 mins,8:00,3
+7,Oba,16,FC25,9/21/2027,20,1 hour,9:00,3
+16,Dimakatso,18,FC25,9/21/2027,20,1 hour,9:00,3
+98,Fourty2,15,FC25,9/21/2027,20,1 hour,9:00,4
+4,Boifihlo,28,GTA V,9/21/2027,20,1 hour,9:00,5
+4,Boifihlo,28,GTA V,9/21/2027,40,2 hours,9:00,5
+97,Jackson,21,FC25,9/21/2027,10,30 mins,9:00,5
+9,Mpho,18,WWE 2K25,9/21/2027,10,30 mins,9:00,5
+13,Phetogo,20,FC25,9/21/2027,20,1 hour,10:00,4
+4,Boifihlo,28,GTA V,9/21/2027,10,30 mins,10:00,3
+83,Toliver,12,Mortal Kombat 7,9/21/2027,20,1 hour,11:00,3
+92,Lonely404,14,GTA V,9/21/2027,10,30 mins,11:00,4
+85,Yeat,23,Mortal Kombat 7,9/21/2027,10,30 mins,11:00,4
+81,Pedri,30,GTA V,9/21/2027,20,1 hour,12:00,4
+84,Alexis,10,WWE 2K25,9/21/2027,20,1 hour,12:00,4
+93,Trent,22,WWE 2K25,9/21/2027,20,1 hour,12:00,4
+2,Lerato,20,GTA V,9/21/2027,40,2 hours,12:00,4
+87,Cat44,15,Mortal Kombat 7,9/21/2027,40,2 hours,12:00,3
+11,Neo,21,GTA V,9/21/2027,10,30 mins,12:00,5
+83,Toliver,12,GTA V,9/21/2027,10,30 mins,12:00,4
+9,Mpho,18,GTA V,9/21/2027,40,2 hours,13:00,4
+10,Kabelo,25,WWE 2K25,9/21/2027,40,2 hours,13:00,3
+85,Yeat,23,FC25,9/21/2027,10,30 mins,13:00,3
+100,Oteezy,20,GTA V,9/21/2027,10,30 mins,13:00,5
+81,Pedri,30,Mortal Kombat 7,9/21/2027,20,1 hour,14:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/21/2027,40,2 hours,14:00,5
+89,Kat04,12,Mortal Kombat 7,9/21/2027,40,2 hours,14:00,5
+7,Oba,16,WWE 2K25,9/21/2027,10,30 mins,14:00,3
+86,Skhebo,25,WWE 2K25,9/21/2027,10,30 mins,14:00,5
+94,Nunez,24,WWE 2K25,9/21/2027,10,30 mins,14:00,4
+88,Joana,18,Mortal Kombat 7,9/21/2027,20,1 hour,15:00,5
+82,DDG,26,WWE 2K25,9/21/2027,20,1 hour,15:00,4
+99,Pogba,18,FC25,9/21/2027,40,2 hours,15:00,5
+7,Oba,16,GTA V,9/21/2027,40,2 hours,15:00,4
+94,Nunez,24,Mortal Kombat 7,9/21/2027,40,2 hours,15:00,5
+96,Foden10,15,FC25,9/21/2027,10,30 mins,15:00,5
+12,Naledi,18,GTA V,9/21/2027,20,1 hour,16:00,5
+90,Bendadon,25,GTA V,9/21/2027,20,1 hour,16:00,3
+1,Tumelo,17,WWE 2K25,9/21/2027,20,1 hour,16:00,4
+11,Neo,21,WWE 2K25,9/21/2027,20,1 hour,16:00,4
+90,Bendadon,25,Mortal Kombat 7,9/21/2027,40,2 hours,16:00,3
+12,Naledi,18,WWE 2K25,9/21/2027,40,2 hours,16:00,5
+82,DDG,26,FC25,9/21/2027,10,30 mins,16:00,5
+88,Joana,18,GTA V,9/21/2027,10,30 mins,16:00,4
+15,Kgomotso,15,GTA V,9/21/2027,20,1 hour,17:00,5
+84,Alexis,10,GTA V,9/21/2027,40,2 hours,17:00,5
+91,Archieve,26,GTA V,9/21/2027,10,30 mins,17:00,4
+91,Archieve,26,FC25,9/21/2027,20,1 hour,18:00,4
+9,Mpho,18,FC25,9/21/2027,10,30 mins,18:00,5
+15,Kgomotso,15,Mortal Kombat 7,9/21/2027,10,30 mins,18:00,4
+4,Boifihlo,28,WWE 2K25,9/20/2027,20,1 hour,7:00,4
+91,Archieve,26,WWE 2K25,9/20/2027,20,1 hour,7:00,5
+8,Thato,22,GTA V,9/20/2027,40,2 hours,7:00,3
+99,Pogba,18,WWE 2K25,9/20/2027,40,2 hours,7:00,4
+19,Bakang,25,Mortal Kombat 7,9/20/2027,20,1 hour,8:00,3
+87,Cat44,15,Mortal Kombat 7,9/20/2027,20,1 hour,8:00,5
+93,Trent,22,FC25,9/20/2027,10,30 mins,8:00,4
+13,Phetogo,20,GTA V,9/20/2027,10,30 mins,8:00,3
+19,Bakang,25,Mortal Kombat 7,9/20/2027,10,30 mins,8:00,4
+2,Lerato,20,WWE 2K25,9/20/2027,20,1 hour,9:00,4
+9,Mpho,18,WWE 2K25,9/20/2027,40,2 hours,9:00,3
+97,Jackson,21,WWE 2K25,9/20/2027,40,2 hours,9:00,5
+96,Foden10,15,GTA V,9/20/2027,10,30 mins,9:00,3
+7,Oba,16,GTA V,9/20/2027,20,1 hour,10:00,3
+94,Nunez,24,WWE 2K25,9/20/2027,20,1 hour,10:00,4
+10,Kabelo,25,GTA V,9/20/2027,40,2 hours,10:00,3
+84,Alexis,10,GTA V,9/20/2027,40,2 hours,10:00,3
+86,Skhebo,25,FC25,9/20/2027,10,30 mins,10:00,3
+9,Mpho,18,Mortal Kombat 7,9/20/2027,20,1 hour,11:00,5
+14,Refilwe,26,WWE 2K25,9/20/2027,20,1 hour,11:00,5
+1,Tumelo,17,WWE 2K25,9/20/2027,10,30 mins,11:00,5
+7,Oba,16,GTA V,9/20/2027,20,1 hour,12:00,3
+5,Tshepo,19,WWE 2K25,9/20/2027,20,1 hour,12:00,5
+16,Dimakatso,18,GTA V,9/20/2027,20,1 hour,13:00,4
+82,DDG,26,Mortal Kombat 7,9/20/2027,20,1 hour,13:00,4
+8,Thato,22,WWE 2K25,9/20/2027,20,1 hour,13:00,4
+12,Naledi,18,FC25,9/20/2027,40,2 hours,13:00,4
+81,Pedri,30,FC25,9/20/2027,10,30 mins,13:00,3
+89,Kat04,12,GTA V,9/20/2027,10,30 mins,13:00,4
+95,Maguire,27,FC25,9/20/2027,20,1 hour,14:00,4
+85,Yeat,23,WWE 2K25,9/20/2027,10,30 mins,14:00,3
+1,Tumelo,17,FC25,9/20/2027,20,1 hour,15:00,4
+2,Lerato,20,FC25,9/20/2027,20,1 hour,15:00,4
+8,Thato,22,FC25,9/20/2027,20,1 hour,15:00,3
+7,Oba,16,GTA V,9/20/2027,20,1 hour,15:00,5
+12,Naledi,18,GTA V,9/20/2027,20,1 hour,15:00,3
+88,Joana,18,WWE 2K25,9/20/2027,20,1 hour,15:00,4
+8,Thato,22,GTA V,9/20/2027,10,30 mins,15:00,5
+98,Fourty2,15,WWE 2K25,9/20/2027,10,30 mins,15:00,4
+90,Bendadon,25,WWE 2K25,9/20/2027,20,1 hour,16:00,3
+9,Mpho,18,FC25,9/20/2027,40,2 hours,16:00,5
+92,Lonely404,14,GTA V,9/20/2027,40,2 hours,16:00,4
+10,Kabelo,25,FC25,9/20/2027,10,30 mins,16:00,4
+15,Kgomotso,15,GTA V,9/20/2027,40,2 hours,17:00,5
+20,Ontiretse,33,GTA V,9/20/2027,40,2 hours,17:00,4
+83,Toliver,12,Mortal Kombat 7,9/20/2027,40,2 hours,17:00,5
+100,Oteezy,20,WWE 2K25,9/20/2027,20,1 hour,18:00,5
+10,Kabelo,25,GTA V,9/20/2027,10,30 mins,18:00,4
+94,Nunez,24,GTA V,9/20/2027,10,30 mins,18:00,3
+22,Mohammed,22,WWE 2K25,9/19/2027,20,1 hour,7:00,3
+29,KT,31,WWE 2K25,9/19/2027,20,1 hour,7:00,3
+50,Stuks,26,FC25,9/19/2027,40,2 hours,7:00,5
+5,Tshepo,19,GTA V,9/19/2027,40,2 hours,7:00,3
+39,Tsabatho,17,WWE 2K25,9/19/2027,10,30 mins,7:00,5
+49,Freddy,22,Mortal Kombat 7,9/19/2027,20,1 hour,8:00,4
+18,Tshepang,27,WWE 2K25,9/19/2027,20,1 hour,8:00,3
+25,John,24,WWE 2K25,9/19/2027,20,1 hour,8:00,3
+30,Four,36,WWE 2K25,9/19/2027,20,1 hour,8:00,4
+46,Tekkz,18,FC25,9/19/2027,40,2 hours,8:00,4
+52,Skara,12,FC25,9/19/2027,40,2 hours,8:00,3
+75,Flex,16,FC25,9/19/2027,40,2 hours,8:00,5
+66,mavado,13,WWE 2K25,9/19/2027,40,2 hours,8:00,4
+65,Dirang,28,FC25,9/19/2027,20,1 hour,9:00,3
+68,Mecca,16,WWE 2K25,9/19/2027,20,1 hour,9:00,3
+77,Dicken,27,FC25,9/19/2027,40,2 hours,9:00,3
+26,Pharoh,24,GTA V,9/19/2027,40,2 hours,9:00,5
+51,Kagiso Phiri,29,Mortal Kombat 7,9/19/2027,40,2 hours,9:00,4
+33,AJ,17,WWE 2K25,9/19/2027,40,2 hours,9:00,3
+23,Moga,18,GTA V,9/19/2027,10,30 mins,9:00,3
+60,Monnakgotla,10,GTA V,9/19/2027,10,30 mins,9:00,3
+41,MC,16,Mortal Kombat 7,9/19/2027,10,30 mins,9:00,3
+72,BP,23,Mortal Kombat 7,9/19/2027,10,30 mins,9:00,5
+27,Molly,25,WWE 2K25,9/19/2027,20,1 hour,10:00,4
+43,Kenny,11,WWE 2K25,9/19/2027,20,1 hour,10:00,4
+54,Neo ,15,FC25,9/19/2027,40,2 hours,10:00,4
+42,Ryza,27,Mortal Kombat 7,9/19/2027,40,2 hours,10:00,3
+34,Puke,25,FC25,9/19/2027,10,30 mins,10:00,3
+37,sesh,33,FC25,9/19/2027,10,30 mins,10:00,3
+63,Jess,16,FC25,9/19/2027,10,30 mins,10:00,4
+32,Johnny,18,GTA V,9/19/2027,10,30 mins,10:00,3
+59,Morena,22,GTA V,9/19/2027,10,30 mins,10:00,4
+71,Carol,25,WWE 2K25,9/19/2027,10,30 mins,10:00,4
+8,Thato,22,FC25,9/19/2027,20,1 hour,11:00,4
+62,Mokgosi,29,FC25,9/19/2027,20,1 hour,11:00,5
+3,Kago,23,GTA V,9/19/2027,20,1 hour,11:00,3
+56,Soso,23,WWE 2K25,9/19/2027,20,1 hour,11:00,3
+73,Cain,10,Mortal Kombat 7,9/19/2027,40,2 hours,11:00,5
+13,Phetogo,20,FC25,9/19/2027,10,30 mins,11:00,3
+61,Tatto,17,GTA V,9/19/2027,10,30 mins,11:00,5
+67,Tony,29,Mortal Kombat 7,9/19/2027,10,30 mins,11:00,5
+76,Kabila,20,Mortal Kombat 7,9/19/2027,10,30 mins,11:00,4
+20,Ontiretse,33,GTA V,9/19/2027,40,2 hours,12:00,5
+69,Thembi,27,FC25,9/19/2027,10,30 mins,12:00,3
+4,Boifihlo,28,FC25,9/19/2027,20,1 hour,13:00,4
+48,Roman,10,Mortal Kombat 7,9/19/2027,20,1 hour,13:00,4
+14,Refilwe,26,WWE 2K25,9/19/2027,10,30 mins,13:00,3
+53,Seboni,14,WWE 2K25,9/19/2027,10,30 mins,13:00,4
+31,Punisher,44,FC25,9/19/2027,40,2 hours,14:00,5
+45,Diddy,28,FC25,9/19/2027,10,30 mins,14:00,4
+38,Choppa,16,GTA V,9/19/2027,10,30 mins,14:00,5
+28,Ryder,22,WWE 2K25,9/19/2027,10,30 mins,14:00,5
+57,Boity,13,FC25,9/19/2027,20,1 hour,15:00,5
+5,Tshepo,19,FC25,9/19/2027,40,2 hours,15:00,4
+21,Mohammed,22,FC25,9/19/2027,10,30 mins,15:00,3
+36,Future,18,FC25,9/19/2027,10,30 mins,15:00,5
+40,blinder,10,Mortal Kombat 7,9/19/2027,20,1 hour,16:00,4
+58,Tepo,30,Mortal Kombat 7,9/19/2027,20,1 hour,16:00,5
+4,Boifihlo,28,GTA V,9/19/2027,10,30 mins,16:00,3
+8,Thato,22,GTA V,9/19/2027,10,30 mins,16:00,4
+64,Keff,29,GTA V,9/19/2027,10,30 mins,16:00,4
+6,Oretil,17,Mortal Kombat 7,9/19/2027,10,30 mins,16:00,4
+24,Kevin,17,Mortal Kombat 7,9/19/2027,10,30 mins,16:00,4
+1,Tumelo,17,WWE 2K25,9/19/2027,10,30 mins,16:00,4
+20,Ontiretse,33,FC25,9/19/2027,40,2 hours,17:00,5
+70,OP,16,GTA V,9/19/2027,40,2 hours,17:00,5
+44,Ronnie,26,WWE 2K25,9/19/2027,40,2 hours,17:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/19/2027,10,30 mins,17:00,5
+47,Aya,17,GTA V,9/19/2027,20,1 hour,18:00,4
+35,Dekkon,18,WWE 2K25,9/19/2027,10,30 mins,18:00,5
+1,Tumelo,17,Mortal Kombat 7,9/18/2027,20,1 hour,7:00,5
+2,Lerato,20,Mortal Kombat 7,9/18/2027,20,1 hour,7:00,4
+2,Lerato,20,Mortal Kombat 7,9/18/2027,20,1 hour,7:00,3
+16,Dimakatso,18,Mortal Kombat 7,9/18/2027,20,1 hour,7:00,5
+18,Tshepang,27,WWE 2K25,9/18/2027,20,1 hour,7:00,3
+19,Bakang,25,WWE 2K25,9/18/2027,20,1 hour,7:00,4
+3,Kago,23,FC25,9/18/2027,40,2 hours,7:00,5
+2,Lerato,20,FC25,9/18/2027,10,30 mins,7:00,4
+13,Phetogo,20,GTA V,9/18/2027,10,30 mins,7:00,5
+7,Oba,16,Mortal Kombat 7,9/18/2027,10,30 mins,7:00,5
+10,Kabelo,25,FC25,9/18/2027,20,1 hour,8:00,4
+1,Tumelo,17,WWE 2K25,9/18/2027,20,1 hour,8:00,3
+5,Tshepo,19,GTA V,9/18/2027,40,2 hours,8:00,5
+19,Bakang,25,GTA V,9/18/2027,40,2 hours,8:00,5
+4,Boifihlo,28,WWE 2K25,9/18/2027,40,2 hours,8:00,3
+2,Lerato,20,FC25,9/18/2027,10,30 mins,8:00,5
+15,Kgomotso,15,FC25,9/18/2027,20,1 hour,9:00,3
+1,Tumelo,17,WWE 2K25,9/18/2027,20,1 hour,9:00,4
+3,Kago,23,WWE 2K25,9/18/2027,20,1 hour,9:00,3
+14,Refilwe,26,WWE 2K25,9/18/2027,20,1 hour,9:00,3
+1,Tumelo,17,WWE 2K25,9/18/2027,40,2 hours,9:00,5
+11,Neo,21,GTA V,9/18/2027,10,30 mins,9:00,5
+20,Ontiretse,33,Mortal Kombat 7,9/18/2027,20,1 hour,10:00,4
+20,Ontiretse,33,WWE 2K25,9/18/2027,20,1 hour,10:00,4
+15,Kgomotso,15,FC25,9/18/2027,40,2 hours,10:00,4
+9,Mpho,18,FC25,9/18/2027,20,1 hour,11:00,4
+5,Tshepo,19,GTA V,9/18/2027,20,1 hour,11:00,3
+16,Dimakatso,18,GTA V,9/18/2027,20,1 hour,11:00,4
+5,Tshepo,19,Mortal Kombat 7,9/18/2027,20,1 hour,11:00,5
+7,Oba,16,Mortal Kombat 7,9/18/2027,20,1 hour,11:00,4
+19,Bakang,25,Mortal Kombat 7,9/18/2027,20,1 hour,11:00,5
+1,Tumelo,17,GTA V,9/18/2027,40,2 hours,11:00,5
+1,Tumelo,17,WWE 2K25,9/18/2027,40,2 hours,11:00,5
+14,Refilwe,26,WWE 2K25,9/18/2027,40,2 hours,11:00,3
+15,Kgomotso,15,FC25,9/18/2027,10,30 mins,11:00,3
+18,Tshepang,27,GTA V,9/18/2027,10,30 mins,11:00,3
+1,Tumelo,17,WWE 2K25,9/18/2027,20,1 hour,12:00,4
+3,Kago,23,WWE 2K25,9/18/2027,20,1 hour,12:00,3
+12,Naledi,18,FC25,9/18/2027,40,2 hours,12:00,3
+2,Lerato,20,WWE 2K25,9/18/2027,40,2 hours,12:00,5
+3,Kago,23,Mortal Kombat 7,9/18/2027,10,30 mins,12:00,5
+5,Tshepo,19,Mortal Kombat 7,9/18/2027,10,30 mins,12:00,3
+10,Kabelo,25,Mortal Kombat 7,9/18/2027,10,30 mins,12:00,3
+13,Phetogo,20,FC25,9/18/2027,40,2 hours,13:00,5
+10,Kabelo,25,GTA V,9/18/2027,40,2 hours,13:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/18/2027,10,30 mins,13:00,4
+6,Oretil,17,WWE 2K25,9/18/2027,10,30 mins,13:00,4
+20,Ontiretse,33,WWE 2K25,9/18/2027,10,30 mins,13:00,3
+2,Lerato,20,FC25,9/18/2027,20,1 hour,14:00,4
+7,Oba,16,WWE 2K25,9/18/2027,20,1 hour,14:00,5
+16,Dimakatso,18,GTA V,9/18/2027,40,2 hours,14:00,5
+19,Bakang,25,GTA V,9/18/2027,40,2 hours,14:00,5
+10,Kabelo,25,GTA V,9/18/2027,10,30 mins,14:00,5
+17,Palesa,28,GTA V,9/18/2027,10,30 mins,14:00,4
+3,Kago,23,Mortal Kombat 7,9/18/2027,10,30 mins,14:00,3
+5,Tshepo,19,Mortal Kombat 7,9/18/2027,10,30 mins,14:00,4
+3,Kago,23,GTA V,9/18/2027,20,1 hour,15:00,5
+5,Tshepo,19,GTA V,9/18/2027,20,1 hour,15:00,4
+17,Palesa,28,GTA V,9/18/2027,20,1 hour,15:00,3
+14,Refilwe,26,Mortal Kombat 7,9/18/2027,20,1 hour,15:00,3
+16,Dimakatso,18,Mortal Kombat 7,9/18/2027,20,1 hour,15:00,4
+20,Ontiretse,33,WWE 2K25,9/18/2027,20,1 hour,15:00,5
+4,Boifihlo,28,GTA V,9/18/2027,40,2 hours,15:00,3
+12,Naledi,18,Mortal Kombat 7,9/18/2027,40,2 hours,15:00,5
+11,Neo,21,Mortal Kombat 7,9/18/2027,10,30 mins,15:00,5
+12,Naledi,18,GTA V,9/18/2027,20,1 hour,16:00,3
+5,Tshepo,19,WWE 2K25,9/18/2027,20,1 hour,16:00,4
+4,Boifihlo,28,FC25,9/18/2027,40,2 hours,16:00,4
+4,Boifihlo,28,GTA V,9/18/2027,40,2 hours,16:00,3
+7,Oba,16,GTA V,9/18/2027,40,2 hours,16:00,4
+14,Refilwe,26,GTA V,9/18/2027,40,2 hours,16:00,4
+12,Naledi,18,Mortal Kombat 7,9/18/2027,40,2 hours,16:00,4
+16,Dimakatso,18,FC25,9/18/2027,10,30 mins,16:00,3
+15,Kgomotso,15,WWE 2K25,9/18/2027,10,30 mins,16:00,3
+10,Kabelo,25,FC25,9/18/2027,20,1 hour,17:00,3
+3,Kago,23,Mortal Kombat 7,9/18/2027,20,1 hour,17:00,4
+10,Kabelo,25,WWE 2K25,9/18/2027,20,1 hour,17:00,4
+16,Dimakatso,18,FC25,9/18/2027,40,2 hours,17:00,3
+8,Thato,22,GTA V,9/18/2027,40,2 hours,17:00,5
+19,Bakang,25,WWE 2K25,9/18/2027,40,2 hours,17:00,5
+14,Refilwe,26,FC25,9/18/2027,10,30 mins,17:00,3
+5,Tshepo,19,FC25,9/18/2027,20,1 hour,18:00,3
+1,Tumelo,17,WWE 2K25,9/18/2027,10,30 mins,18:00,4
+4,Boifihlo,28,FC25,9/17/2027,20,1 hour,7:00,3
+8,Thato,22,Mortal Kombat 7,9/17/2027,20,1 hour,7:00,5
+12,Naledi,18,WWE 2K25,9/17/2027,20,1 hour,7:00,3
+13,Phetogo,20,FC25,9/17/2027,10,30 mins,7:00,3
+20,Ontiretse,33,FC25,9/17/2027,10,30 mins,7:00,4
+7,Oba,16,Mortal Kombat 7,9/17/2027,10,30 mins,7:00,4
+11,Neo,21,WWE 2K25,9/17/2027,20,1 hour,8:00,3
+6,Oretil,17,FC25,9/17/2027,40,2 hours,8:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/17/2027,40,2 hours,8:00,3
+4,Boifihlo,28,WWE 2K25,9/17/2027,40,2 hours,8:00,5
+8,Thato,22,FC25,9/17/2027,10,30 mins,8:00,3
+4,Boifihlo,28,WWE 2K25,9/17/2027,40,2 hours,9:00,4
+13,Phetogo,20,WWE 2K25,9/17/2027,40,2 hours,9:00,5
+12,Naledi,18,GTA V,9/17/2027,10,30 mins,9:00,4
+3,Kago,23,GTA V,9/17/2027,20,1 hour,10:00,3
+8,Thato,22,FC25,9/17/2027,40,2 hours,10:00,4
+14,Refilwe,26,GTA V,9/17/2027,40,2 hours,10:00,5
+2,Lerato,20,WWE 2K25,9/17/2027,40,2 hours,10:00,3
+12,Naledi,18,WWE 2K25,9/17/2027,40,2 hours,10:00,4
+1,Tumelo,17,WWE 2K25,9/17/2027,20,1 hour,11:00,5
+2,Lerato,20,GTA V,9/17/2027,20,1 hour,12:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/17/2027,20,1 hour,12:00,3
+20,Ontiretse,33,WWE 2K25,9/17/2027,40,2 hours,12:00,3
+5,Tshepo,19,GTA V,9/17/2027,10,30 mins,12:00,3
+10,Kabelo,25,GTA V,9/17/2027,10,30 mins,12:00,3
+13,Phetogo,20,WWE 2K25,9/17/2027,20,1 hour,13:00,5
+12,Naledi,18,FC25,9/17/2027,40,2 hours,13:00,4
+4,Boifihlo,28,GTA V,9/17/2027,40,2 hours,13:00,4
+18,Tshepang,27,GTA V,9/17/2027,40,2 hours,13:00,4
+3,Kago,23,Mortal Kombat 7,9/17/2027,40,2 hours,13:00,5
+8,Thato,22,Mortal Kombat 7,9/17/2027,40,2 hours,13:00,5
+12,Naledi,18,WWE 2K25,9/17/2027,40,2 hours,13:00,5
+19,Bakang,25,WWE 2K25,9/17/2027,40,2 hours,13:00,5
+9,Mpho,18,FC25,9/17/2027,40,2 hours,14:00,4
+10,Kabelo,25,Mortal Kombat 7,9/17/2027,10,30 mins,14:00,3
+1,Tumelo,17,FC25,9/17/2027,20,1 hour,15:00,5
+19,Bakang,25,FC25,9/17/2027,20,1 hour,15:00,5
+20,Ontiretse,33,FC25,9/17/2027,40,2 hours,15:00,4
+9,Mpho,18,Mortal Kombat 7,9/17/2027,40,2 hours,15:00,5
+10,Kabelo,25,Mortal Kombat 7,9/17/2027,40,2 hours,15:00,4
+5,Tshepo,19,WWE 2K25,9/17/2027,40,2 hours,15:00,3
+8,Thato,22,GTA V,9/17/2027,10,30 mins,15:00,5
+8,Thato,22,FC25,9/17/2027,20,1 hour,16:00,4
+9,Mpho,18,GTA V,9/17/2027,20,1 hour,16:00,5
+9,Mpho,18,Mortal Kombat 7,9/17/2027,20,1 hour,16:00,4
+4,Boifihlo,28,WWE 2K25,9/17/2027,20,1 hour,16:00,4
+12,Naledi,18,WWE 2K25,9/17/2027,20,1 hour,16:00,5
+19,Bakang,25,GTA V,9/17/2027,40,2 hours,16:00,3
+16,Dimakatso,18,Mortal Kombat 7,9/17/2027,40,2 hours,16:00,4
+14,Refilwe,26,Mortal Kombat 7,9/17/2027,10,30 mins,16:00,3
+18,Tshepang,27,Mortal Kombat 7,9/17/2027,10,30 mins,16:00,4
+13,Phetogo,20,FC25,9/17/2027,20,1 hour,17:00,3
+14,Refilwe,26,FC25,9/17/2027,20,1 hour,17:00,4
+7,Oba,16,Mortal Kombat 7,9/17/2027,20,1 hour,17:00,3
+11,Neo,21,FC25,9/17/2027,10,30 mins,17:00,3
+16,Dimakatso,18,FC25,9/17/2027,10,30 mins,17:00,5
+7,Oba,16,GTA V,9/17/2027,10,30 mins,17:00,4
+5,Tshepo,19,Mortal Kombat 7,9/17/2027,10,30 mins,17:00,4
+5,Tshepo,19,GTA V,9/17/2027,20,1 hour,18:00,3
+8,Thato,22,FC25,9/17/2027,10,30 mins,18:00,4
+7,Oba,16,FC25,9/16/2027,20,1 hour,7:00,3
+14,Refilwe,26,FC25,9/16/2027,20,1 hour,7:00,5
+3,Kago,23,Mortal Kombat 7,9/16/2027,20,1 hour,7:00,5
+10,Kabelo,25,Mortal Kombat 7,9/16/2027,20,1 hour,7:00,5
+12,Naledi,18,Mortal Kombat 7,9/16/2027,20,1 hour,7:00,3
+9,Mpho,18,WWE 2K25,9/16/2027,20,1 hour,7:00,5
+18,Tshepang,27,WWE 2K25,9/16/2027,20,1 hour,7:00,3
+11,Neo,21,Mortal Kombat 7,9/16/2027,40,2 hours,7:00,3
+7,Oba,16,FC25,9/16/2027,10,30 mins,7:00,3
+3,Kago,23,FC25,9/16/2027,20,1 hour,8:00,3
+9,Mpho,18,Mortal Kombat 7,9/16/2027,20,1 hour,8:00,4
+4,Boifihlo,28,GTA V,9/16/2027,40,2 hours,8:00,4
+1,Tumelo,17,Mortal Kombat 7,9/16/2027,40,2 hours,8:00,5
+3,Kago,23,WWE 2K25,9/16/2027,40,2 hours,8:00,4
+1,Tumelo,17,GTA V,9/16/2027,10,30 mins,8:00,4
+8,Thato,22,FC25,9/16/2027,20,1 hour,9:00,3
+7,Oba,16,FC25,9/16/2027,40,2 hours,9:00,4
+8,Thato,22,GTA V,9/16/2027,40,2 hours,9:00,3
+12,Naledi,18,GTA V,9/16/2027,10,30 mins,9:00,4
+15,Kgomotso,15,Mortal Kombat 7,9/16/2027,10,30 mins,9:00,3
+18,Tshepang,27,WWE 2K25,9/16/2027,20,1 hour,10:00,4
+11,Neo,21,FC25,9/16/2027,40,2 hours,10:00,4
+14,Refilwe,26,WWE 2K25,9/16/2027,40,2 hours,10:00,3
+10,Kabelo,25,Mortal Kombat 7,9/16/2027,10,30 mins,10:00,3
+3,Kago,23,WWE 2K25,9/16/2027,10,30 mins,10:00,4
+19,Bakang,25,WWE 2K25,9/16/2027,10,30 mins,10:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/16/2027,40,2 hours,11:00,5
+9,Mpho,18,WWE 2K25,9/16/2027,40,2 hours,11:00,5
+2,Lerato,20,FC25,9/16/2027,10,30 mins,11:00,5
+5,Tshepo,19,FC25,9/16/2027,10,30 mins,11:00,4
+2,Lerato,20,Mortal Kombat 7,9/16/2027,20,1 hour,12:00,4
+12,Naledi,18,WWE 2K25,9/16/2027,40,2 hours,12:00,4
+8,Thato,22,FC25,9/16/2027,10,30 mins,12:00,3
+6,Oretil,17,FC25,9/16/2027,40,2 hours,13:00,4
+19,Bakang,25,FC25,9/16/2027,40,2 hours,13:00,3
+7,Oba,16,Mortal Kombat 7,9/16/2027,10,30 mins,13:00,5
+13,Phetogo,20,WWE 2K25,9/16/2027,10,30 mins,13:00,3
+14,Refilwe,26,WWE 2K25,9/16/2027,10,30 mins,13:00,3
+6,Oretil,17,FC25,9/16/2027,20,1 hour,14:00,4
+6,Oretil,17,GTA V,9/16/2027,20,1 hour,14:00,3
+94,Nunez,24,GTA V,9/16/2027,20,1 hour,14:00,5
+17,Palesa,28,WWE 2K25,9/16/2027,20,1 hour,14:00,5
+7,Oba,16,GTA V,9/16/2027,20,1 hour,15:00,5
+15,Kgomotso,15,Mortal Kombat 7,9/16/2027,20,1 hour,15:00,4
+15,Kgomotso,15,WWE 2K25,9/16/2027,20,1 hour,15:00,4
+19,Bakang,25,GTA V,9/16/2027,40,2 hours,15:00,3
+19,Bakang,25,FC25,9/16/2027,10,30 mins,15:00,3
+14,Refilwe,26,WWE 2K25,9/16/2027,10,30 mins,15:00,3
+4,Boifihlo,28,GTA V,9/16/2027,20,1 hour,16:00,3
+3,Kago,23,WWE 2K25,9/16/2027,20,1 hour,16:00,4
+6,Oretil,17,WWE 2K25,9/16/2027,40,2 hours,16:00,3
+4,Boifihlo,28,GTA V,9/16/2027,10,30 mins,16:00,5
+20,Ontiretse,33,Mortal Kombat 7,9/16/2027,10,30 mins,16:00,4
+13,Phetogo,20,WWE 2K25,9/16/2027,10,30 mins,16:00,5
+19,Bakang,25,GTA V,9/16/2027,20,1 hour,17:00,4
+2,Lerato,20,Mortal Kombat 7,9/16/2027,20,1 hour,17:00,5
+14,Refilwe,26,WWE 2K25,9/16/2027,20,1 hour,17:00,3
+14,Refilwe,26,FC25,9/16/2027,40,2 hours,17:00,3
+14,Refilwe,26,Mortal Kombat 7,9/16/2027,10,30 mins,17:00,3
+12,Naledi,18,FC25,9/16/2027,20,1 hour,18:00,3
+6,Oretil,17,Mortal Kombat 7,9/16/2027,20,1 hour,18:00,4
+19,Bakang,25,Mortal Kombat 7,9/16/2027,20,1 hour,18:00,3
+7,Oba,16,WWE 2K25,9/16/2027,20,1 hour,18:00,4
+18,Tshepang,27,Mortal Kombat 7,9/16/2027,10,30 mins,18:00,5
+19,Bakang,25,FC25,9/15/2027,20,1 hour,7:00,5
+20,Ontiretse,33,WWE 2K25,9/15/2027,40,2 hours,7:00,3
+7,Oba,16,FC25,9/15/2027,20,1 hour,8:00,5
+3,Kago,23,GTA V,9/15/2027,40,2 hours,8:00,5
+1,Tumelo,17,GTA V,9/15/2027,10,30 mins,8:00,4
+4,Boifihlo,28,WWE 2K25,9/15/2027,10,30 mins,8:00,5
+6,Oretil,17,GTA V,9/15/2027,20,1 hour,9:00,4
+11,Neo,21,GTA V,9/15/2027,20,1 hour,9:00,3
+16,Dimakatso,18,WWE 2K25,9/15/2027,20,1 hour,9:00,3
+20,Ontiretse,33,GTA V,9/15/2027,40,2 hours,9:00,5
+13,Phetogo,20,WWE 2K25,9/15/2027,40,2 hours,9:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/15/2027,10,30 mins,9:00,3
+17,Palesa,28,WWE 2K25,9/15/2027,10,30 mins,9:00,3
+8,Thato,22,FC25,9/15/2027,20,1 hour,10:00,3
+8,Thato,22,Mortal Kombat 7,9/15/2027,20,1 hour,10:00,3
+13,Phetogo,20,FC25,9/15/2027,20,1 hour,11:00,5
+18,Tshepang,27,WWE 2K25,9/15/2027,20,1 hour,11:00,4
+4,Boifihlo,28,GTA V,9/15/2027,40,2 hours,11:00,4
+15,Kgomotso,15,Mortal Kombat 7,9/15/2027,40,2 hours,11:00,5
+5,Tshepo,19,FC25,9/15/2027,10,30 mins,11:00,4
+9,Mpho,18,WWE 2K25,9/15/2027,10,30 mins,11:00,4
+14,Refilwe,26,FC25,9/15/2027,20,1 hour,12:00,3
+5,Tshepo,19,Mortal Kombat 7,9/15/2027,40,2 hours,12:00,3
+13,Phetogo,20,Mortal Kombat 7,9/15/2027,40,2 hours,12:00,3
+13,Phetogo,20,GTA V,9/15/2027,10,30 mins,12:00,4
+11,Neo,21,Mortal Kombat 7,9/15/2027,10,30 mins,12:00,5
+2,Lerato,20,Mortal Kombat 7,9/15/2027,40,2 hours,13:00,3
+17,Palesa,28,Mortal Kombat 7,9/15/2027,40,2 hours,13:00,3
+3,Kago,23,FC25,9/15/2027,10,30 mins,13:00,5
+5,Tshepo,19,FC25,9/15/2027,40,2 hours,14:00,5
+18,Tshepang,27,Mortal Kombat 7,9/15/2027,40,2 hours,14:00,3
+16,Dimakatso,18,Mortal Kombat 7,9/15/2027,10,30 mins,14:00,3
+4,Boifihlo,28,FC25,9/15/2027,40,2 hours,15:00,3
+8,Thato,22,Mortal Kombat 7,9/15/2027,40,2 hours,15:00,4
+5,Tshepo,19,WWE 2K25,9/15/2027,10,30 mins,15:00,4
+12,Naledi,18,WWE 2K25,9/15/2027,10,30 mins,15:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/15/2027,40,2 hours,16:00,4
+17,Palesa,28,FC25,9/15/2027,10,30 mins,16:00,5
+5,Tshepo,19,FC25,9/15/2027,20,1 hour,17:00,5
+5,Tshepo,19,FC25,9/15/2027,20,1 hour,17:00,4
+14,Refilwe,26,GTA V,9/15/2027,20,1 hour,17:00,5
+10,Kabelo,25,Mortal Kombat 7,9/15/2027,20,1 hour,17:00,3
+1,Tumelo,17,WWE 2K25,9/15/2027,20,1 hour,17:00,4
+19,Bakang,25,WWE 2K25,9/15/2027,20,1 hour,17:00,3
+3,Kago,23,GTA V,9/15/2027,40,2 hours,17:00,4
+5,Tshepo,19,WWE 2K25,9/15/2027,10,30 mins,17:00,3
+20,Ontiretse,33,FC25,9/15/2027,10,30 mins,18:00,5
+3,Kago,23,WWE 2K25,9/14/2027,20,1 hour,7:00,5
+7,Oba,16,GTA V,9/14/2027,40,2 hours,7:00,4
+15,Kgomotso,15,WWE 2K25,9/14/2027,40,2 hours,7:00,3
+6,Oretil,17,GTA V,9/14/2027,10,30 mins,7:00,5
+1,Tumelo,17,FC25,9/14/2027,20,1 hour,8:00,3
+6,Oretil,17,FC25,9/14/2027,20,1 hour,8:00,5
+19,Bakang,25,Mortal Kombat 7,9/14/2027,20,1 hour,8:00,3
+6,Oretil,17,FC25,9/14/2027,40,2 hours,8:00,3
+2,Lerato,20,GTA V,9/14/2027,40,2 hours,8:00,3
+14,Refilwe,26,GTA V,9/14/2027,40,2 hours,8:00,3
+20,Ontiretse,33,WWE 2K25,9/14/2027,10,30 mins,8:00,4
+10,Kabelo,25,GTA V,9/14/2027,10,30 mins,9:00,4
+13,Phetogo,20,Mortal Kombat 7,9/14/2027,10,30 mins,9:00,3
+7,Oba,16,FC25,9/14/2027,20,1 hour,10:00,4
+2,Lerato,20,GTA V,9/14/2027,20,1 hour,10:00,5
+9,Mpho,18,GTA V,9/14/2027,20,1 hour,10:00,5
+12,Naledi,18,FC25,9/14/2027,40,2 hours,10:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/14/2027,40,2 hours,10:00,3
+16,Dimakatso,18,WWE 2K25,9/14/2027,40,2 hours,10:00,4
+8,Thato,22,GTA V,9/14/2027,10,30 mins,10:00,3
+10,Kabelo,25,GTA V,9/14/2027,20,1 hour,11:00,5
+11,Neo,21,WWE 2K25,9/14/2027,20,1 hour,11:00,3
+18,Tshepang,27,WWE 2K25,9/14/2027,20,1 hour,11:00,4
+15,Kgomotso,15,FC25,9/14/2027,40,2 hours,11:00,3
+19,Bakang,25,FC25,9/14/2027,40,2 hours,11:00,3
+2,Lerato,20,Mortal Kombat 7,9/14/2027,40,2 hours,11:00,4
+19,Bakang,25,Mortal Kombat 7,9/14/2027,40,2 hours,11:00,3
+4,Boifihlo,28,Mortal Kombat 7,9/14/2027,10,30 mins,11:00,5
+9,Mpho,18,WWE 2K25,9/14/2027,10,30 mins,11:00,3
+4,Boifihlo,28,GTA V,9/14/2027,20,1 hour,12:00,3
+19,Bakang,25,GTA V,9/14/2027,20,1 hour,12:00,3
+15,Kgomotso,15,GTA V,9/14/2027,40,2 hours,12:00,4
+3,Kago,23,FC25,9/14/2027,10,30 mins,12:00,3
+6,Oretil,17,WWE 2K25,9/14/2027,10,30 mins,12:00,3
+1,Tumelo,17,FC25,9/14/2027,20,1 hour,13:00,3
+18,Tshepang,27,WWE 2K25,9/14/2027,20,1 hour,13:00,5
+10,Kabelo,25,Mortal Kombat 7,9/14/2027,10,30 mins,13:00,3
+9,Mpho,18,WWE 2K25,9/14/2027,10,30 mins,13:00,3
+13,Phetogo,20,GTA V,9/14/2027,20,1 hour,14:00,3
+15,Kgomotso,15,WWE 2K25,9/14/2027,20,1 hour,14:00,4
+2,Lerato,20,Mortal Kombat 7,9/14/2027,40,2 hours,14:00,5
+6,Oretil,17,Mortal Kombat 7,9/14/2027,40,2 hours,14:00,4
+8,Thato,22,FC25,9/14/2027,20,1 hour,15:00,3
+18,Tshepang,27,FC25,9/14/2027,40,2 hours,15:00,4
+7,Oba,16,GTA V,9/14/2027,40,2 hours,15:00,4
+13,Phetogo,20,Mortal Kombat 7,9/14/2027,20,1 hour,16:00,4
+1,Tumelo,17,WWE 2K25,9/14/2027,20,1 hour,16:00,4
+8,Thato,22,Mortal Kombat 7,9/14/2027,40,2 hours,16:00,5
+9,Mpho,18,Mortal Kombat 7,9/14/2027,40,2 hours,16:00,5
+7,Oba,16,FC25,9/14/2027,10,30 mins,16:00,4
+11,Neo,21,Mortal Kombat 7,9/14/2027,10,30 mins,16:00,3
+5,Tshepo,19,GTA V,9/14/2027,20,1 hour,17:00,5
+14,Refilwe,26,FC25,9/14/2027,10,30 mins,17:00,3
+17,Palesa,28,FC25,9/14/2027,10,30 mins,17:00,5
+19,Bakang,25,FC25,9/14/2027,10,30 mins,17:00,4
+1,Tumelo,17,Mortal Kombat 7,9/14/2027,10,30 mins,17:00,3
+2,Lerato,20,GTA V,9/14/2027,20,1 hour,18:00,3
+6,Oretil,17,GTA V,9/14/2027,20,1 hour,18:00,4
+5,Tshepo,19,Mortal Kombat 7,9/14/2027,20,1 hour,18:00,3
+4,Boifihlo,28,FC25,9/14/2027,10,30 mins,18:00,5
+20,Ontiretse,33,FC25,9/14/2027,10,30 mins,18:00,5
+15,Kgomotso,15,Mortal Kombat 7,9/14/2027,10,30 mins,18:00,3
+14,Refilwe,26,WWE 2K25,9/14/2027,10,30 mins,18:00,5
+15,Kgomotso,15,WWE 2K25,9/14/2027,10,30 mins,18:00,5
+2,Lerato,20,GTA V,9/13/2027,20,1 hour,7:00,5
+16,Dimakatso,18,Mortal Kombat 7,9/13/2027,20,1 hour,7:00,3
+5,Tshepo,19,FC25,9/13/2027,40,2 hours,7:00,5
+7,Oba,16,FC25,9/13/2027,40,2 hours,7:00,4
+9,Mpho,18,WWE 2K25,9/13/2027,40,2 hours,7:00,5
+4,Boifihlo,28,WWE 2K25,9/13/2027,20,1 hour,8:00,3
+6,Oretil,17,FC25,9/13/2027,10,30 mins,8:00,4
+11,Neo,21,FC25,9/13/2027,10,30 mins,8:00,4
+4,Boifihlo,28,WWE 2K25,9/13/2027,10,30 mins,8:00,3
+7,Oba,16,FC25,9/13/2027,20,1 hour,9:00,4
+19,Bakang,25,GTA V,9/13/2027,20,1 hour,9:00,5
+4,Boifihlo,28,WWE 2K25,9/13/2027,20,1 hour,9:00,4
+6,Oretil,17,WWE 2K25,9/13/2027,20,1 hour,9:00,5
+10,Kabelo,25,GTA V,9/13/2027,40,2 hours,9:00,5
+17,Palesa,28,Mortal Kombat 7,9/13/2027,40,2 hours,9:00,5
+12,Naledi,18,WWE 2K25,9/13/2027,40,2 hours,9:00,5
+3,Kago,23,GTA V,9/13/2027,10,30 mins,9:00,4
+9,Mpho,18,GTA V,9/13/2027,10,30 mins,9:00,4
+11,Neo,21,GTA V,9/13/2027,10,30 mins,9:00,5
+12,Naledi,18,Mortal Kombat 7,9/13/2027,10,30 mins,9:00,5
+16,Dimakatso,18,Mortal Kombat 7,9/13/2027,10,30 mins,9:00,4
+16,Dimakatso,18,GTA V,9/13/2027,40,2 hours,10:00,5
+15,Kgomotso,15,Mortal Kombat 7,9/13/2027,40,2 hours,10:00,5
+18,Tshepang,27,Mortal Kombat 7,9/13/2027,10,30 mins,10:00,3
+7,Oba,16,FC25,9/13/2027,20,1 hour,11:00,5
+19,Bakang,25,WWE 2K25,9/13/2027,20,1 hour,11:00,5
+9,Mpho,18,GTA V,9/13/2027,40,2 hours,11:00,4
+2,Lerato,20,WWE 2K25,9/13/2027,40,2 hours,11:00,5
+18,Tshepang,27,WWE 2K25,9/13/2027,40,2 hours,11:00,4
+4,Boifihlo,28,Mortal Kombat 7,9/13/2027,20,1 hour,12:00,4
+8,Thato,22,Mortal Kombat 7,9/13/2027,20,1 hour,12:00,4
+18,Tshepang,27,WWE 2K25,9/13/2027,20,1 hour,12:00,5
+3,Kago,23,FC25,9/13/2027,40,2 hours,12:00,5
+9,Mpho,18,Mortal Kombat 7,9/13/2027,40,2 hours,12:00,4
+17,Palesa,28,Mortal Kombat 7,9/13/2027,40,2 hours,12:00,3
+20,Ontiretse,33,FC25,9/13/2027,20,1 hour,13:00,5
+5,Tshepo,19,WWE 2K25,9/13/2027,20,1 hour,13:00,4
+12,Naledi,18,GTA V,9/13/2027,10,30 mins,13:00,4
+18,Tshepang,27,GTA V,9/13/2027,10,30 mins,13:00,4
+2,Lerato,20,Mortal Kombat 7,9/13/2027,10,30 mins,13:00,3
+1,Tumelo,17,WWE 2K25,9/13/2027,20,1 hour,14:00,4
+10,Kabelo,25,Mortal Kombat 7,9/13/2027,40,2 hours,14:00,5
+16,Dimakatso,18,WWE 2K25,9/13/2027,40,2 hours,14:00,5
+2,Lerato,20,FC25,9/13/2027,10,30 mins,14:00,3
+12,Naledi,18,WWE 2K25,9/13/2027,10,30 mins,14:00,3
+7,Oba,16,FC25,9/13/2027,20,1 hour,15:00,4
+8,Thato,22,FC25,9/13/2027,20,1 hour,15:00,5
+9,Mpho,18,GTA V,9/13/2027,20,1 hour,15:00,4
+18,Tshepang,27,GTA V,9/13/2027,20,1 hour,15:00,5
+9,Mpho,18,GTA V,9/13/2027,40,2 hours,15:00,5
+12,Naledi,18,Mortal Kombat 7,9/13/2027,40,2 hours,15:00,5
+8,Thato,22,Mortal Kombat 7,9/13/2027,10,30 mins,15:00,3
+3,Kago,23,GTA V,9/13/2027,20,1 hour,16:00,4
+13,Phetogo,20,GTA V,9/13/2027,20,1 hour,16:00,5
+20,Ontiretse,33,WWE 2K25,9/13/2027,40,2 hours,16:00,5
+16,Dimakatso,18,FC25,9/13/2027,10,30 mins,16:00,4
+14,Refilwe,26,GTA V,9/13/2027,10,30 mins,16:00,3
+4,Boifihlo,28,WWE 2K25,9/13/2027,10,30 mins,16:00,5
+9,Mpho,18,GTA V,9/13/2027,20,1 hour,17:00,3
+19,Bakang,25,WWE 2K25,9/13/2027,20,1 hour,17:00,4
+3,Kago,23,Mortal Kombat 7,9/13/2027,40,2 hours,17:00,3
+7,Oba,16,FC25,9/13/2027,10,30 mins,17:00,4
+11,Neo,21,GTA V,9/13/2027,20,1 hour,18:00,3
+20,Ontiretse,33,WWE 2K25,9/13/2027,20,1 hour,18:00,5
+12,Naledi,18,Mortal Kombat 7,9/13/2027,10,30 mins,18:00,5
+6,Oretil,17,FC25,9/12/2027,20,1 hour,7:00,3
+14,Refilwe,26,FC25,9/12/2027,20,1 hour,7:00,4
+10,Kabelo,25,GTA V,9/12/2027,20,1 hour,7:00,4
+6,Oretil,17,GTA V,9/12/2027,10,30 mins,7:00,3
+14,Refilwe,26,GTA V,9/12/2027,10,30 mins,7:00,3
+10,Kabelo,25,Mortal Kombat 7,9/12/2027,10,30 mins,7:00,3
+9,Mpho,18,WWE 2K25,9/12/2027,10,30 mins,7:00,5
+15,Kgomotso,15,WWE 2K25,9/12/2027,10,30 mins,7:00,3
+10,Kabelo,25,GTA V,9/12/2027,20,1 hour,8:00,5
+1,Tumelo,17,Mortal Kombat 7,9/12/2027,20,1 hour,8:00,4
+6,Oretil,17,Mortal Kombat 7,9/12/2027,20,1 hour,8:00,3
+19,Bakang,25,Mortal Kombat 7,9/12/2027,40,2 hours,8:00,5
+6,Oretil,17,FC25,9/12/2027,10,30 mins,8:00,5
+19,Bakang,25,FC25,9/12/2027,10,30 mins,8:00,3
+12,Naledi,18,WWE 2K25,9/12/2027,10,30 mins,8:00,3
+15,Kgomotso,15,WWE 2K25,9/12/2027,10,30 mins,8:00,5
+10,Kabelo,25,FC25,9/12/2027,20,1 hour,9:00,4
+12,Naledi,18,FC25,9/12/2027,40,2 hours,9:00,4
+14,Refilwe,26,FC25,9/12/2027,40,2 hours,9:00,3
+20,Ontiretse,33,FC25,9/12/2027,40,2 hours,9:00,3
+9,Mpho,18,FC25,9/12/2027,10,30 mins,9:00,5
+10,Kabelo,25,FC25,9/12/2027,10,30 mins,9:00,5
+13,Phetogo,20,GTA V,9/12/2027,10,30 mins,9:00,4
+13,Phetogo,20,Mortal Kombat 7,9/12/2027,10,30 mins,9:00,3
+6,Oretil,17,GTA V,9/12/2027,20,1 hour,10:00,3
+20,Ontiretse,33,GTA V,9/12/2027,20,1 hour,10:00,4
+12,Naledi,18,WWE 2K25,9/12/2027,20,1 hour,10:00,3
+2,Lerato,20,FC25,9/12/2027,40,2 hours,10:00,4
+6,Oretil,17,Mortal Kombat 7,9/12/2027,40,2 hours,10:00,3
+14,Refilwe,26,Mortal Kombat 7,9/12/2027,40,2 hours,10:00,5
+9,Mpho,18,WWE 2K25,9/12/2027,40,2 hours,10:00,3
+8,Thato,22,Mortal Kombat 7,9/12/2027,10,30 mins,10:00,5
+16,Dimakatso,18,FC25,9/12/2027,20,1 hour,11:00,4
+1,Tumelo,17,GTA V,9/12/2027,20,1 hour,11:00,4
+2,Lerato,20,GTA V,9/12/2027,20,1 hour,11:00,3
+1,Tumelo,17,WWE 2K25,9/12/2027,20,1 hour,11:00,3
+12,Naledi,18,FC25,9/12/2027,40,2 hours,11:00,4
+14,Refilwe,26,GTA V,9/12/2027,40,2 hours,11:00,4
+20,Ontiretse,33,Mortal Kombat 7,9/12/2027,10,30 mins,11:00,5
+17,Palesa,28,GTA V,9/12/2027,20,1 hour,12:00,3
+17,Palesa,28,GTA V,9/12/2027,20,1 hour,12:00,4
+6,Oretil,17,WWE 2K25,9/12/2027,20,1 hour,12:00,3
+9,Mpho,18,FC25,9/12/2027,40,2 hours,12:00,4
+9,Mpho,18,GTA V,9/12/2027,40,2 hours,12:00,5
+10,Kabelo,25,FC25,9/12/2027,10,30 mins,12:00,4
+13,Phetogo,20,GTA V,9/12/2027,20,1 hour,13:00,5
+9,Mpho,18,GTA V,9/12/2027,40,2 hours,13:00,5
+6,Oretil,17,WWE 2K25,9/12/2027,40,2 hours,13:00,3
+17,Palesa,28,WWE 2K25,9/12/2027,40,2 hours,13:00,4
+12,Naledi,18,FC25,9/12/2027,10,30 mins,13:00,3
+10,Kabelo,25,Mortal Kombat 7,9/12/2027,10,30 mins,13:00,3
+14,Refilwe,26,Mortal Kombat 7,9/12/2027,10,30 mins,13:00,3
+7,Oba,16,WWE 2K25,9/12/2027,10,30 mins,13:00,4
+2,Lerato,20,GTA V,9/12/2027,20,1 hour,14:00,4
+14,Refilwe,26,Mortal Kombat 7,9/12/2027,20,1 hour,14:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/12/2027,20,1 hour,14:00,4
+14,Refilwe,26,WWE 2K25,9/12/2027,20,1 hour,14:00,3
+15,Kgomotso,15,FC25,9/12/2027,40,2 hours,14:00,5
+8,Thato,22,WWE 2K25,9/12/2027,40,2 hours,14:00,3
+13,Phetogo,20,WWE 2K25,9/12/2027,40,2 hours,14:00,3
+10,Kabelo,25,Mortal Kombat 7,9/12/2027,10,30 mins,14:00,5
+20,Ontiretse,33,WWE 2K25,9/12/2027,10,30 mins,14:00,5
+19,Bakang,25,FC25,9/12/2027,20,1 hour,15:00,5
+5,Tshepo,19,Mortal Kombat 7,9/12/2027,20,1 hour,15:00,4
+10,Kabelo,25,Mortal Kombat 7,9/12/2027,20,1 hour,15:00,5
+6,Oretil,17,WWE 2K25,9/12/2027,20,1 hour,15:00,3
+8,Thato,22,GTA V,9/12/2027,40,2 hours,15:00,5
+6,Oretil,17,Mortal Kombat 7,9/12/2027,40,2 hours,15:00,3
+2,Lerato,20,GTA V,9/12/2027,10,30 mins,15:00,3
+4,Boifihlo,28,GTA V,9/12/2027,10,30 mins,15:00,3
+5,Tshepo,19,Mortal Kombat 7,9/12/2027,10,30 mins,15:00,4
+10,Kabelo,25,Mortal Kombat 7,9/12/2027,10,30 mins,15:00,3
+7,Oba,16,WWE 2K25,9/12/2027,10,30 mins,15:00,5
+14,Refilwe,26,GTA V,9/12/2027,20,1 hour,16:00,5
+15,Kgomotso,15,WWE 2K25,9/12/2027,20,1 hour,16:00,4
+18,Tshepang,27,Mortal Kombat 7,9/12/2027,40,2 hours,16:00,5
+9,Mpho,18,Mortal Kombat 7,9/12/2027,10,30 mins,16:00,4
+12,Naledi,18,Mortal Kombat 7,9/12/2027,10,30 mins,16:00,3
+1,Tumelo,17,WWE 2K25,9/12/2027,10,30 mins,16:00,4
+19,Bakang,25,Mortal Kombat 7,9/12/2027,20,1 hour,17:00,5
+3,Kago,23,FC25,9/12/2027,40,2 hours,17:00,4
+4,Boifihlo,28,GTA V,9/12/2027,40,2 hours,17:00,5
+3,Kago,23,Mortal Kombat 7,9/12/2027,40,2 hours,17:00,4
+12,Naledi,18,Mortal Kombat 7,9/12/2027,40,2 hours,17:00,5
+17,Palesa,28,WWE 2K25,9/12/2027,40,2 hours,17:00,3
+8,Thato,22,GTA V,9/12/2027,20,1 hour,18:00,5
+13,Phetogo,20,Mortal Kombat 7,9/12/2027,20,1 hour,18:00,3
+10,Kabelo,25,FC25,9/12/2027,10,30 mins,18:00,5
+5,Tshepo,19,Mortal Kombat 7,9/12/2027,10,30 mins,18:00,3
+10,Kabelo,25,WWE 2K25,9/12/2027,10,30 mins,18:00,5
+4,Boifihlo,28,FC25,9/11/2027,20,1 hour,7:00,5
+15,Kgomotso,15,WWE 2K25,9/11/2027,20,1 hour,7:00,5
+6,Oretil,17,FC25,9/11/2027,40,2 hours,7:00,5
+7,Oba,16,GTA V,9/11/2027,40,2 hours,7:00,4
+20,Ontiretse,33,GTA V,9/11/2027,40,2 hours,7:00,4
+2,Lerato,20,Mortal Kombat 7,9/11/2027,10,30 mins,7:00,3
+9,Mpho,18,Mortal Kombat 7,9/11/2027,10,30 mins,7:00,5
+5,Tshepo,19,FC25,9/11/2027,20,1 hour,8:00,5
+92,Lonely404,14,GTA V,9/11/2027,20,1 hour,8:00,5
+12,Naledi,18,Mortal Kombat 7,9/11/2027,20,1 hour,8:00,5
+20,Ontiretse,33,Mortal Kombat 7,9/11/2027,20,1 hour,8:00,3
+1,Tumelo,17,FC25,9/11/2027,40,2 hours,8:00,5
+4,Boifihlo,28,FC25,9/11/2027,40,2 hours,8:00,5
+4,Boifihlo,28,FC25,9/11/2027,40,2 hours,8:00,4
+15,Kgomotso,15,WWE 2K25,9/11/2027,40,2 hours,8:00,4
+88,Joana,18,Mortal Kombat 7,9/11/2027,10,30 mins,8:00,5
+3,Kago,23,WWE 2K25,9/11/2027,10,30 mins,8:00,4
+11,Neo,21,WWE 2K25,9/11/2027,10,30 mins,8:00,4
+15,Kgomotso,15,WWE 2K25,9/11/2027,10,30 mins,8:00,4
+18,Tshepang,27,GTA V,9/11/2027,20,1 hour,9:00,4
+10,Kabelo,25,Mortal Kombat 7,9/11/2027,20,1 hour,9:00,3
+8,Thato,22,FC25,9/11/2027,40,2 hours,9:00,5
+8,Thato,22,FC25,9/11/2027,40,2 hours,9:00,5
+11,Neo,21,GTA V,9/11/2027,40,2 hours,9:00,5
+13,Phetogo,20,GTA V,9/11/2027,40,2 hours,9:00,3
+4,Boifihlo,28,GTA V,9/11/2027,10,30 mins,9:00,4
+7,Oba,16,WWE 2K25,9/11/2027,10,30 mins,9:00,5
+15,Kgomotso,15,WWE 2K25,9/11/2027,10,30 mins,9:00,5
+91,Archieve,26,Mortal Kombat 7,9/11/2027,20,1 hour,10:00,3
+7,Oba,16,WWE 2K25,9/11/2027,20,1 hour,10:00,3
+95,Maguire,27,WWE 2K25,9/11/2027,20,1 hour,10:00,5
+87,Cat44,15,FC25,9/11/2027,40,2 hours,10:00,4
+10,Kabelo,25,GTA V,9/11/2027,40,2 hours,10:00,5
+17,Palesa,28,GTA V,9/11/2027,40,2 hours,10:00,3
+85,Yeat,23,WWE 2K25,9/11/2027,40,2 hours,10:00,5
+13,Phetogo,20,GTA V,9/11/2027,10,30 mins,10:00,5
+16,Dimakatso,18,Mortal Kombat 7,9/11/2027,10,30 mins,10:00,4
+94,Nunez,24,Mortal Kombat 7,9/11/2027,10,30 mins,10:00,4
+13,Phetogo,20,WWE 2K25,9/11/2027,10,30 mins,10:00,5
+2,Lerato,20,GTA V,9/11/2027,20,1 hour,11:00,5
+97,Jackson,21,GTA V,9/11/2027,20,1 hour,11:00,5
+11,Neo,21,Mortal Kombat 7,9/11/2027,20,1 hour,11:00,3
+15,Kgomotso,15,WWE 2K25,9/11/2027,20,1 hour,11:00,4
+9,Mpho,18,WWE 2K25,9/11/2027,40,2 hours,11:00,5
+12,Naledi,18,WWE 2K25,9/11/2027,40,2 hours,11:00,4
+99,Pogba,18,WWE 2K25,9/11/2027,10,30 mins,11:00,5
+1,Tumelo,17,GTA V,9/11/2027,20,1 hour,12:00,4
+7,Oba,16,GTA V,9/11/2027,20,1 hour,12:00,3
+8,Thato,22,GTA V,9/11/2027,20,1 hour,12:00,4
+18,Tshepang,27,GTA V,9/11/2027,20,1 hour,12:00,4
+96,Foden10,15,FC25,9/11/2027,40,2 hours,12:00,4
+4,Boifihlo,28,GTA V,9/11/2027,10,30 mins,12:00,3
+12,Naledi,18,Mortal Kombat 7,9/11/2027,20,1 hour,13:00,4
+9,Mpho,18,WWE 2K25,9/11/2027,20,1 hour,13:00,5
+4,Boifihlo,28,Mortal Kombat 7,9/11/2027,40,2 hours,13:00,3
+9,Mpho,18,Mortal Kombat 7,9/11/2027,40,2 hours,13:00,4
+10,Kabelo,25,Mortal Kombat 7,9/11/2027,40,2 hours,13:00,4
+18,Tshepang,27,Mortal Kombat 7,9/11/2027,40,2 hours,13:00,4
+100,Oteezy,20,WWE 2K25,9/11/2027,40,2 hours,13:00,4
+13,Phetogo,20,GTA V,9/11/2027,10,30 mins,13:00,4
+9,Mpho,18,FC25,9/11/2027,20,1 hour,14:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/11/2027,20,1 hour,14:00,3
+10,Kabelo,25,WWE 2K25,9/11/2027,20,1 hour,14:00,4
+16,Dimakatso,18,FC25,9/11/2027,40,2 hours,14:00,3
+86,Skhebo,25,Mortal Kombat 7,9/11/2027,40,2 hours,14:00,5
+20,Ontiretse,33,GTA V,9/11/2027,10,30 mins,14:00,4
+11,Neo,21,Mortal Kombat 7,9/11/2027,20,1 hour,15:00,4
+2,Lerato,20,GTA V,9/11/2027,40,2 hours,15:00,4
+9,Mpho,18,WWE 2K25,9/11/2027,40,2 hours,15:00,4
+12,Naledi,18,FC25,9/11/2027,10,30 mins,15:00,3
+17,Palesa,28,Mortal Kombat 7,9/11/2027,10,30 mins,15:00,3
+13,Phetogo,20,WWE 2K25,9/11/2027,10,30 mins,15:00,4
+90,Bendadon,25,WWE 2K25,9/11/2027,10,30 mins,15:00,4
+8,Thato,22,FC25,9/11/2027,20,1 hour,16:00,4
+4,Boifihlo,28,Mortal Kombat 7,9/11/2027,20,1 hour,16:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/11/2027,20,1 hour,16:00,4
+2,Lerato,20,WWE 2K25,9/11/2027,20,1 hour,16:00,3
+11,Neo,21,WWE 2K25,9/11/2027,20,1 hour,16:00,4
+89,Kat04,12,WWE 2K25,9/11/2027,20,1 hour,16:00,5
+94,Nunez,24,GTA V,9/11/2027,40,2 hours,16:00,5
+15,Kgomotso,15,WWE 2K25,9/11/2027,40,2 hours,16:00,3
+2,Lerato,20,FC25,9/11/2027,10,30 mins,16:00,5
+11,Neo,21,FC25,9/11/2027,10,30 mins,16:00,4
+18,Tshepang,27,GTA V,9/11/2027,10,30 mins,16:00,5
+98,Fourty2,15,GTA V,9/11/2027,10,30 mins,16:00,4
+6,Oretil,17,FC25,9/11/2027,20,1 hour,17:00,3
+16,Dimakatso,18,FC25,9/11/2027,20,1 hour,17:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/11/2027,20,1 hour,17:00,4
+17,Palesa,28,WWE 2K25,9/11/2027,20,1 hour,17:00,4
+15,Kgomotso,15,GTA V,9/11/2027,40,2 hours,17:00,3
+3,Kago,23,GTA V,9/11/2027,10,30 mins,17:00,3
+9,Mpho,18,Mortal Kombat 7,9/11/2027,10,30 mins,17:00,3
+1,Tumelo,17,WWE 2K25,9/11/2027,10,30 mins,17:00,3
+9,Mpho,18,FC25,9/11/2027,20,1 hour,18:00,3
+7,Oba,16,GTA V,9/11/2027,20,1 hour,18:00,4
+11,Neo,21,Mortal Kombat 7,9/11/2027,20,1 hour,18:00,4
+5,Tshepo,19,FC25,9/11/2027,10,30 mins,18:00,4
+93,Trent,22,FC25,9/11/2027,10,30 mins,18:00,3
+6,Oretil,17,GTA V,9/11/2027,10,30 mins,18:00,4
+36,Future,18,GTA V,9/10/2027,40,2 hours,7:00,4
+72,BP,23,Mortal Kombat 7,9/10/2027,10,30 mins,7:00,5
+53,Seboni,14,GTA V,9/10/2027,20,1 hour,8:00,5
+42,Ryza,27,WWE 2K25,9/10/2027,10,30 mins,8:00,3
+45,Diddy,28,WWE 2K25,9/10/2027,10,30 mins,8:00,5
+49,Freddy,22,WWE 2K25,9/10/2027,10,30 mins,8:00,4
+75,Flex,16,FC25,9/10/2027,20,1 hour,9:00,5
+63,Jess,16,Mortal Kombat 7,9/10/2027,20,1 hour,9:00,5
+80,Vini,23,WWE 2K25,9/10/2027,20,1 hour,9:00,4
+39,Tsabatho,17,GTA V,9/10/2027,40,2 hours,9:00,4
+54,Neo ,15,Mortal Kombat 7,9/10/2027,40,2 hours,9:00,4
+79,Van,21,FC25,9/10/2027,10,30 mins,9:00,5
+71,Carol,25,WWE 2K25,9/10/2027,10,30 mins,9:00,5
+73,Cain,10,FC25,9/10/2027,40,2 hours,10:00,4
+82,DDG,26,WWE 2K25,9/10/2027,40,2 hours,10:00,5
+84,Alexis,10,WWE 2K25,9/10/2027,10,30 mins,10:00,5
+51,Kagiso Phiri,29,WWE 2K25,9/10/2027,40,2 hours,11:00,5
+44,Ronnie,26,WWE 2K25,9/10/2027,10,30 mins,11:00,4
+33,AJ,17,WWE 2K25,9/10/2027,20,1 hour,12:00,4
+40,blinder,10,WWE 2K25,9/10/2027,20,1 hour,12:00,5
+64,Keff,29,Mortal Kombat 7,9/10/2027,40,2 hours,12:00,3
+41,MC,16,WWE 2K25,9/10/2027,40,2 hours,12:00,4
+62,Mokgosi,29,WWE 2K25,9/10/2027,40,2 hours,12:00,5
+61,Tatto,17,WWE 2K25,9/10/2027,10,30 mins,12:00,5
+65,Dirang,28,GTA V,9/10/2027,20,1 hour,13:00,3
+47,Aya,17,WWE 2K25,9/10/2027,20,1 hour,13:00,4
+31,Punisher,44,FC25,9/10/2027,40,2 hours,13:00,5
+77,Dicken,27,FC25,9/10/2027,40,2 hours,13:00,4
+32,Johnny,18,Mortal Kombat 7,9/10/2027,40,2 hours,13:00,5
+48,Roman,10,FC25,9/10/2027,10,30 mins,13:00,5
+59,Morena,22,WWE 2K25,9/10/2027,10,30 mins,13:00,3
+66,mavado,13,FC25,9/10/2027,20,1 hour,14:00,4
+68,Mecca,16,Mortal Kombat 7,9/10/2027,20,1 hour,14:00,5
+34,Puke,25,FC25,9/10/2027,40,2 hours,14:00,4
+43,Kenny,11,FC25,9/10/2027,40,2 hours,14:00,5
+76,Kabila,20,GTA V,9/10/2027,40,2 hours,14:00,3
+81,Pedri,30,Mortal Kombat 7,9/10/2027,40,2 hours,14:00,4
+57,Boity,13,GTA V,9/10/2027,10,30 mins,14:00,3
+50,Stuks,26,WWE 2K25,9/10/2027,10,30 mins,14:00,4
+46,Tekkz,18,FC25,9/10/2027,40,2 hours,15:00,3
+60,Monnakgotla,10,WWE 2K25,9/10/2027,40,2 hours,15:00,4
+69,Thembi,27,FC25,9/10/2027,10,30 mins,15:00,5
+70,OP,16,Mortal Kombat 7,9/10/2027,10,30 mins,15:00,4
+78,Lamal10,30,WWE 2K25,9/10/2027,20,1 hour,16:00,3
+52,Skara,12,FC25,9/10/2027,40,2 hours,16:00,3
+30,Four,36,WWE 2K25,9/10/2027,10,30 mins,16:00,3
+38,Choppa,16,GTA V,9/10/2027,20,1 hour,17:00,4
+35,Dekkon,18,GTA V,9/10/2027,40,2 hours,17:00,3
+56,Soso,23,Mortal Kombat 7,9/10/2027,40,2 hours,17:00,3
+83,Toliver,12,WWE 2K25,9/10/2027,40,2 hours,17:00,3
+58,Tepo,30,GTA V,9/10/2027,20,1 hour,18:00,4
+37,sesh,33,WWE 2K25,9/10/2027,20,1 hour,18:00,5
+67,Tony,29,Mortal Kombat 7,9/10/2027,10,30 mins,18:00,5
+1,Tumelo,17,FC25,9/9/2027,20,1 hour,7:00,3
+3,Kago,23,GTA V,9/9/2027,40,2 hours,7:00,4
+14,Refilwe,26,FC25,9/9/2027,10,30 mins,7:00,5
+5,Tshepo,19,Mortal Kombat 7,9/9/2027,20,1 hour,8:00,3
+10,Kabelo,25,GTA V,9/9/2027,40,2 hours,8:00,3
+9,Mpho,18,Mortal Kombat 7,9/9/2027,10,30 mins,8:00,3
+28,Ryder,22,WWE 2K25,9/9/2027,20,1 hour,9:00,4
+19,Bakang,25,GTA V,9/9/2027,10,30 mins,9:00,3
+3,Kago,23,Mortal Kombat 7,9/9/2027,10,30 mins,9:00,5
+27,Molly,25,Mortal Kombat 7,9/9/2027,10,30 mins,9:00,4
+16,Dimakatso,18,WWE 2K25,9/9/2027,10,30 mins,9:00,5
+22,Mohammed,22,WWE 2K25,9/9/2027,10,30 mins,9:00,5
+4,Boifihlo,28,WWE 2K25,9/9/2027,40,2 hours,10:00,4
+11,Neo,21,Mortal Kombat 7,9/9/2027,10,30 mins,10:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/9/2027,20,1 hour,11:00,5
+14,Refilwe,26,WWE 2K25,9/9/2027,20,1 hour,11:00,3
+7,Oba,16,FC25,9/9/2027,40,2 hours,11:00,5
+12,Naledi,18,GTA V,9/9/2027,40,2 hours,11:00,5
+1,Tumelo,17,Mortal Kombat 7,9/9/2027,10,30 mins,11:00,4
+3,Kago,23,Mortal Kombat 7,9/9/2027,10,30 mins,11:00,3
+5,Tshepo,19,Mortal Kombat 7,9/9/2027,10,30 mins,11:00,5
+15,Kgomotso,15,WWE 2K25,9/9/2027,10,30 mins,11:00,3
+8,Thato,22,FC25,9/9/2027,40,2 hours,12:00,4
+13,Phetogo,20,FC25,9/9/2027,10,30 mins,12:00,4
+25,John,24,GTA V,9/9/2027,10,30 mins,12:00,5
+4,Boifihlo,28,GTA V,9/9/2027,20,1 hour,13:00,5
+20,Ontiretse,33,GTA V,9/9/2027,20,1 hour,13:00,5
+16,Dimakatso,18,FC25,9/9/2027,40,2 hours,13:00,5
+29,KT,31,FC25,9/9/2027,40,2 hours,13:00,3
+19,Bakang,25,Mortal Kombat 7,9/9/2027,40,2 hours,13:00,5
+4,Boifihlo,28,WWE 2K25,9/9/2027,40,2 hours,13:00,3
+5,Tshepo,19,FC25,9/9/2027,20,1 hour,14:00,4
+5,Tshepo,19,Mortal Kombat 7,9/9/2027,20,1 hour,14:00,5
+5,Tshepo,19,FC25,9/9/2027,40,2 hours,14:00,4
+20,Ontiretse,33,GTA V,9/9/2027,40,2 hours,14:00,3
+24,Kevin,17,WWE 2K25,9/9/2027,40,2 hours,14:00,5
+15,Kgomotso,15,GTA V,9/9/2027,10,30 mins,14:00,4
+23,Moga,18,GTA V,9/9/2027,10,30 mins,14:00,4
+1,Tumelo,17,Mortal Kombat 7,9/9/2027,10,30 mins,14:00,3
+3,Kago,23,FC25,9/9/2027,20,1 hour,15:00,3
+20,Ontiretse,33,FC25,9/9/2027,20,1 hour,15:00,4
+7,Oba,16,WWE 2K25,9/9/2027,20,1 hour,15:00,5
+2,Lerato,20,GTA V,9/9/2027,10,30 mins,15:00,5
+10,Kabelo,25,GTA V,9/9/2027,10,30 mins,15:00,3
+5,Tshepo,19,WWE 2K25,9/9/2027,10,30 mins,15:00,4
+19,Bakang,25,FC25,9/9/2027,20,1 hour,16:00,3
+12,Naledi,18,GTA V,9/9/2027,20,1 hour,16:00,5
+26,Pharoh,24,GTA V,9/9/2027,20,1 hour,16:00,5
+2,Lerato,20,GTA V,9/9/2027,40,2 hours,16:00,3
+2,Lerato,20,WWE 2K25,9/9/2027,40,2 hours,16:00,3
+20,Ontiretse,33,WWE 2K25,9/9/2027,40,2 hours,16:00,5
+18,Tshepang,27,GTA V,9/9/2027,10,30 mins,16:00,3
+21,Mohammed,22,FC25,9/9/2027,20,1 hour,17:00,3
+19,Bakang,25,WWE 2K25,9/9/2027,20,1 hour,17:00,4
+1,Tumelo,17,GTA V,9/9/2027,40,2 hours,17:00,5
+2,Lerato,20,GTA V,9/9/2027,40,2 hours,17:00,3
+2,Lerato,20,Mortal Kombat 7,9/9/2027,40,2 hours,17:00,5
+14,Refilwe,26,Mortal Kombat 7,9/9/2027,40,2 hours,17:00,4
+14,Refilwe,26,Mortal Kombat 7,9/9/2027,40,2 hours,17:00,3
+12,Naledi,18,Mortal Kombat 7,9/9/2027,10,30 mins,17:00,5
+12,Naledi,18,GTA V,9/9/2027,20,1 hour,18:00,5
+5,Tshepo,19,GTA V,9/8/2027,40,2 hours,7:00,5
+4,Boifihlo,28,GTA V,9/8/2027,20,1 hour,8:00,5
+3,Kago,23,FC25,9/8/2027,40,2 hours,8:00,4
+16,Dimakatso,18,WWE 2K25,9/8/2027,40,2 hours,8:00,4
+12,Naledi,18,FC25,9/8/2027,10,30 mins,8:00,4
+13,Phetogo,20,FC25,9/8/2027,10,30 mins,8:00,5
+11,Neo,21,WWE 2K25,9/8/2027,10,30 mins,8:00,5
+16,Dimakatso,18,FC25,9/8/2027,20,1 hour,9:00,4
+7,Oba,16,FC25,9/8/2027,40,2 hours,9:00,3
+17,Palesa,28,WWE 2K25,9/8/2027,40,2 hours,9:00,5
+10,Kabelo,25,WWE 2K25,9/8/2027,10,30 mins,9:00,5
+1,Tumelo,17,Mortal Kombat 7,9/8/2027,20,1 hour,10:00,5
+10,Kabelo,25,FC25,9/8/2027,10,30 mins,10:00,3
+18,Tshepang,27,Mortal Kombat 7,9/8/2027,10,30 mins,10:00,5
+16,Dimakatso,18,FC25,9/8/2027,20,1 hour,11:00,4
+9,Mpho,18,FC25,9/8/2027,10,30 mins,11:00,5
+7,Oba,16,Mortal Kombat 7,9/8/2027,10,30 mins,11:00,4
+15,Kgomotso,15,FC25,9/8/2027,10,30 mins,12:00,5
+5,Tshepo,19,GTA V,9/8/2027,10,30 mins,12:00,3
+1,Tumelo,17,Mortal Kombat 7,9/8/2027,10,30 mins,12:00,5
+1,Tumelo,17,FC25,9/8/2027,40,2 hours,13:00,3
+8,Thato,22,WWE 2K25,9/8/2027,40,2 hours,13:00,5
+5,Tshepo,19,FC25,9/8/2027,10,30 mins,13:00,4
+10,Kabelo,25,FC25,9/8/2027,10,30 mins,13:00,3
+19,Bakang,25,WWE 2K25,9/8/2027,10,30 mins,13:00,3
+3,Kago,23,Mortal Kombat 7,9/8/2027,20,1 hour,14:00,5
+3,Kago,23,FC25,9/8/2027,40,2 hours,14:00,4
+17,Palesa,28,GTA V,9/8/2027,40,2 hours,14:00,4
+14,Refilwe,26,Mortal Kombat 7,9/8/2027,20,1 hour,15:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/8/2027,40,2 hours,16:00,3
+15,Kgomotso,15,FC25,9/8/2027,10,30 mins,16:00,4
+6,Oretil,17,WWE 2K25,9/8/2027,10,30 mins,16:00,5
+1,Tumelo,17,GTA V,9/8/2027,40,2 hours,17:00,3
+19,Bakang,25,GTA V,9/8/2027,40,2 hours,17:00,4
+2,Lerato,20,Mortal Kombat 7,9/8/2027,10,30 mins,17:00,4
+5,Tshepo,19,Mortal Kombat 7,9/8/2027,10,30 mins,17:00,5
+10,Kabelo,25,WWE 2K25,9/8/2027,10,30 mins,17:00,4
+10,Kabelo,25,FC25,9/8/2027,20,1 hour,18:00,4
+12,Naledi,18,WWE 2K25,9/8/2027,20,1 hour,18:00,4
+14,Refilwe,26,FC25,9/8/2027,10,30 mins,18:00,3
+16,Dimakatso,18,WWE 2K25,9/7/2027,20,1 hour,7:00,3
+12,Naledi,18,GTA V,9/7/2027,40,2 hours,7:00,4
+3,Kago,23,Mortal Kombat 7,9/7/2027,40,2 hours,7:00,5
+4,Boifihlo,28,Mortal Kombat 7,9/7/2027,40,2 hours,7:00,4
+7,Oba,16,WWE 2K25,9/7/2027,40,2 hours,7:00,5
+12,Naledi,18,FC25,9/7/2027,10,30 mins,7:00,3
+14,Refilwe,26,Mortal Kombat 7,9/7/2027,10,30 mins,7:00,4
+20,Ontiretse,33,FC25,9/7/2027,20,1 hour,8:00,3
+20,Ontiretse,33,GTA V,9/7/2027,20,1 hour,8:00,4
+5,Tshepo,19,WWE 2K25,9/7/2027,20,1 hour,8:00,5
+14,Refilwe,26,FC25,9/7/2027,40,2 hours,8:00,5
+19,Bakang,25,WWE 2K25,9/7/2027,40,2 hours,8:00,5
+3,Kago,23,GTA V,9/7/2027,10,30 mins,8:00,5
+5,Tshepo,19,Mortal Kombat 7,9/7/2027,40,2 hours,9:00,4
+8,Thato,22,WWE 2K25,9/7/2027,10,30 mins,9:00,5
+6,Oretil,17,WWE 2K25,9/7/2027,40,2 hours,10:00,5
+3,Kago,23,FC25,9/7/2027,10,30 mins,10:00,4
+8,Thato,22,FC25,9/7/2027,10,30 mins,10:00,5
+10,Kabelo,25,GTA V,9/7/2027,20,1 hour,11:00,5
+16,Dimakatso,18,GTA V,9/7/2027,20,1 hour,11:00,4
+18,Tshepang,27,GTA V,9/7/2027,20,1 hour,11:00,3
+20,Ontiretse,33,GTA V,9/7/2027,40,2 hours,11:00,3
+6,Oretil,17,Mortal Kombat 7,9/7/2027,40,2 hours,11:00,5
+8,Thato,22,Mortal Kombat 7,9/7/2027,40,2 hours,11:00,5
+19,Bakang,25,Mortal Kombat 7,9/7/2027,10,30 mins,11:00,3
+13,Phetogo,20,WWE 2K25,9/7/2027,10,30 mins,11:00,4
+8,Thato,22,Mortal Kombat 7,9/7/2027,20,1 hour,12:00,3
+20,Ontiretse,33,FC25,9/7/2027,40,2 hours,12:00,3
+1,Tumelo,17,Mortal Kombat 7,9/7/2027,40,2 hours,12:00,4
+10,Kabelo,25,WWE 2K25,9/7/2027,40,2 hours,12:00,5
+7,Oba,16,FC25,9/7/2027,10,30 mins,12:00,3
+19,Bakang,25,FC25,9/7/2027,10,30 mins,12:00,4
+20,Ontiretse,33,Mortal Kombat 7,9/7/2027,10,30 mins,12:00,4
+7,Oba,16,GTA V,9/7/2027,20,1 hour,13:00,3
+8,Thato,22,FC25,9/7/2027,40,2 hours,13:00,5
+14,Refilwe,26,FC25,9/7/2027,20,1 hour,14:00,5
+1,Tumelo,17,WWE 2K25,9/7/2027,10,30 mins,14:00,3
+9,Mpho,18,WWE 2K25,9/7/2027,10,30 mins,14:00,3
+8,Thato,22,WWE 2K25,9/7/2027,20,1 hour,15:00,3
+2,Lerato,20,FC25,9/7/2027,40,2 hours,15:00,5
+12,Naledi,18,GTA V,9/7/2027,40,2 hours,15:00,3
+14,Refilwe,26,GTA V,9/7/2027,40,2 hours,15:00,5
+2,Lerato,20,Mortal Kombat 7,9/7/2027,40,2 hours,15:00,3
+12,Naledi,18,WWE 2K25,9/7/2027,10,30 mins,15:00,3
+19,Bakang,25,WWE 2K25,9/7/2027,10,30 mins,15:00,4
+17,Palesa,28,FC25,9/7/2027,20,1 hour,16:00,4
+8,Thato,22,FC25,9/7/2027,40,2 hours,16:00,5
+4,Boifihlo,28,Mortal Kombat 7,9/7/2027,10,30 mins,16:00,5
+13,Phetogo,20,Mortal Kombat 7,9/7/2027,10,30 mins,16:00,4
+18,Tshepang,27,Mortal Kombat 7,9/7/2027,10,30 mins,16:00,5
+12,Naledi,18,WWE 2K25,9/7/2027,10,30 mins,16:00,3
+3,Kago,23,GTA V,9/7/2027,20,1 hour,17:00,5
+1,Tumelo,17,Mortal Kombat 7,9/7/2027,20,1 hour,17:00,5
+13,Phetogo,20,GTA V,9/7/2027,40,2 hours,17:00,4
+4,Boifihlo,28,Mortal Kombat 7,9/7/2027,40,2 hours,17:00,3
+9,Mpho,18,WWE 2K25,9/7/2027,40,2 hours,17:00,5
+8,Thato,22,GTA V,9/7/2027,10,30 mins,17:00,4
+9,Mpho,18,GTA V,9/7/2027,10,30 mins,17:00,3
+19,Bakang,25,Mortal Kombat 7,9/7/2027,10,30 mins,17:00,5
+5,Tshepo,19,WWE 2K25,9/7/2027,10,30 mins,17:00,4
+3,Kago,23,WWE 2K25,9/7/2027,20,1 hour,18:00,4
+12,Naledi,18,GTA V,9/7/2027,10,30 mins,18:00,4
+18,Tshepang,27,GTA V,9/7/2027,10,30 mins,18:00,5
+14,Refilwe,26,GTA V,9/6/2027,40,2 hours,7:00,4
+19,Bakang,25,FC25,9/6/2027,20,1 hour,8:00,3
+8,Thato,22,GTA V,9/6/2027,40,2 hours,8:00,4
+2,Lerato,20,GTA V,9/6/2027,40,2 hours,9:00,4
+11,Neo,21,Mortal Kombat 7,9/6/2027,40,2 hours,9:00,3
+4,Boifihlo,28,FC25,9/6/2027,10,30 mins,9:00,4
+12,Naledi,18,GTA V,9/6/2027,20,1 hour,10:00,3
+6,Oretil,17,WWE 2K25,9/6/2027,20,1 hour,10:00,5
+12,Naledi,18,FC25,9/6/2027,10,30 mins,10:00,3
+15,Kgomotso,15,GTA V,9/6/2027,40,2 hours,11:00,5
+4,Boifihlo,28,Mortal Kombat 7,9/6/2027,40,2 hours,11:00,4
+18,Tshepang,27,Mortal Kombat 7,9/6/2027,40,2 hours,11:00,4
+9,Mpho,18,FC25,9/6/2027,40,2 hours,12:00,3
+7,Oba,16,FC25,9/6/2027,10,30 mins,12:00,4
+6,Oretil,17,GTA V,9/6/2027,10,30 mins,12:00,4
+5,Tshepo,19,WWE 2K25,9/6/2027,10,30 mins,12:00,4
+13,Phetogo,20,GTA V,9/6/2027,20,1 hour,13:00,5
+9,Mpho,18,GTA V,9/6/2027,40,2 hours,14:00,5
+19,Bakang,25,GTA V,9/6/2027,40,2 hours,14:00,5
+2,Lerato,20,WWE 2K25,9/6/2027,40,2 hours,14:00,4
+14,Refilwe,26,GTA V,9/6/2027,20,1 hour,15:00,3
+18,Tshepang,27,GTA V,9/6/2027,20,1 hour,15:00,4
+10,Kabelo,25,WWE 2K25,9/6/2027,20,1 hour,15:00,5
+14,Refilwe,26,FC25,9/6/2027,40,2 hours,15:00,3
+7,Oba,16,Mortal Kombat 7,9/6/2027,40,2 hours,15:00,3
+11,Neo,21,GTA V,9/6/2027,10,30 mins,15:00,4
+7,Oba,16,GTA V,9/6/2027,40,2 hours,16:00,5
+7,Oba,16,Mortal Kombat 7,9/6/2027,40,2 hours,16:00,3
+3,Kago,23,WWE 2K25,9/6/2027,40,2 hours,16:00,4
+18,Tshepang,27,WWE 2K25,9/6/2027,40,2 hours,16:00,5
+19,Bakang,25,WWE 2K25,9/6/2027,40,2 hours,16:00,4
+14,Refilwe,26,GTA V,9/6/2027,10,30 mins,16:00,5
+6,Oretil,17,Mortal Kombat 7,9/6/2027,40,2 hours,17:00,3
+14,Refilwe,26,FC25,9/6/2027,10,30 mins,17:00,3
+6,Oretil,17,Mortal Kombat 7,9/6/2027,10,30 mins,17:00,3
+19,Bakang,25,WWE 2K25,9/6/2027,10,30 mins,17:00,3
+13,Phetogo,20,FC25,9/6/2027,20,1 hour,18:00,5
+15,Kgomotso,15,FC25,9/6/2027,20,1 hour,18:00,4
+15,Kgomotso,15,FC25,9/6/2027,20,1 hour,18:00,3
+15,Kgomotso,15,GTA V,9/6/2027,20,1 hour,18:00,4
+1,Tumelo,17,WWE 2K25,9/6/2027,20,1 hour,18:00,4
+1,Tumelo,17,FC25,9/5/2027,20,1 hour,7:00,5
+3,Kago,23,GTA V,9/5/2027,20,1 hour,7:00,3
+13,Phetogo,20,GTA V,9/5/2027,20,1 hour,7:00,3
+4,Boifihlo,28,GTA V,9/5/2027,40,2 hours,7:00,3
+10,Kabelo,25,WWE 2K25,9/5/2027,40,2 hours,7:00,3
+11,Neo,21,FC25,9/5/2027,20,1 hour,8:00,3
+5,Tshepo,19,Mortal Kombat 7,9/5/2027,20,1 hour,8:00,3
+19,Bakang,25,Mortal Kombat 7,9/5/2027,20,1 hour,8:00,4
+6,Oretil,17,FC25,9/5/2027,40,2 hours,8:00,5
+10,Kabelo,25,GTA V,9/5/2027,40,2 hours,8:00,4
+16,Dimakatso,18,GTA V,9/5/2027,20,1 hour,9:00,4
+7,Oba,16,GTA V,9/5/2027,40,2 hours,9:00,4
+17,Palesa,28,GTA V,9/5/2027,40,2 hours,9:00,4
+8,Thato,22,Mortal Kombat 7,9/5/2027,40,2 hours,9:00,3
+13,Phetogo,20,Mortal Kombat 7,9/5/2027,40,2 hours,9:00,4
+3,Kago,23,FC25,9/5/2027,10,30 mins,9:00,3
+11,Neo,21,GTA V,9/5/2027,10,30 mins,9:00,5
+7,Oba,16,FC25,9/5/2027,20,1 hour,10:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/5/2027,20,1 hour,10:00,3
+20,Ontiretse,33,Mortal Kombat 7,9/5/2027,40,2 hours,10:00,4
+4,Boifihlo,28,WWE 2K25,9/5/2027,40,2 hours,10:00,3
+5,Tshepo,19,WWE 2K25,9/5/2027,40,2 hours,10:00,3
+12,Naledi,18,FC25,9/5/2027,10,30 mins,10:00,5
+18,Tshepang,27,GTA V,9/5/2027,10,30 mins,10:00,5
+6,Oretil,17,GTA V,9/5/2027,20,1 hour,11:00,3
+4,Boifihlo,28,Mortal Kombat 7,9/5/2027,20,1 hour,11:00,5
+5,Tshepo,19,Mortal Kombat 7,9/5/2027,20,1 hour,11:00,4
+16,Dimakatso,18,GTA V,9/5/2027,40,2 hours,11:00,5
+3,Kago,23,Mortal Kombat 7,9/5/2027,10,30 mins,11:00,4
+6,Oretil,17,WWE 2K25,9/5/2027,10,30 mins,11:00,5
+20,Ontiretse,33,FC25,9/5/2027,20,1 hour,12:00,4
+13,Phetogo,20,Mortal Kombat 7,9/5/2027,20,1 hour,12:00,3
+8,Thato,22,FC25,9/5/2027,10,30 mins,12:00,5
+11,Neo,21,Mortal Kombat 7,9/5/2027,20,1 hour,13:00,5
+8,Thato,22,FC25,9/5/2027,40,2 hours,13:00,3
+2,Lerato,20,GTA V,9/5/2027,40,2 hours,13:00,3
+5,Tshepo,19,Mortal Kombat 7,9/5/2027,40,2 hours,13:00,3
+5,Tshepo,19,WWE 2K25,9/5/2027,40,2 hours,13:00,3
+18,Tshepang,27,WWE 2K25,9/5/2027,40,2 hours,13:00,3
+17,Palesa,28,GTA V,9/5/2027,10,30 mins,13:00,5
+14,Refilwe,26,FC25,9/5/2027,20,1 hour,14:00,5
+15,Kgomotso,15,FC25,9/5/2027,40,2 hours,14:00,3
+16,Dimakatso,18,FC25,9/5/2027,40,2 hours,14:00,3
+9,Mpho,18,GTA V,9/5/2027,40,2 hours,14:00,4
+13,Phetogo,20,WWE 2K25,9/5/2027,40,2 hours,14:00,4
+6,Oretil,17,GTA V,9/5/2027,10,30 mins,14:00,4
+3,Kago,23,GTA V,9/5/2027,20,1 hour,15:00,4
+1,Tumelo,17,Mortal Kombat 7,9/5/2027,20,1 hour,15:00,4
+12,Naledi,18,Mortal Kombat 7,9/5/2027,20,1 hour,15:00,4
+16,Dimakatso,18,Mortal Kombat 7,9/5/2027,40,2 hours,15:00,3
+9,Mpho,18,WWE 2K25,9/5/2027,40,2 hours,15:00,3
+2,Lerato,20,WWE 2K25,9/5/2027,10,30 mins,15:00,4
+13,Phetogo,20,FC25,9/5/2027,20,1 hour,16:00,3
+19,Bakang,25,GTA V,9/5/2027,20,1 hour,16:00,5
+5,Tshepo,19,Mortal Kombat 7,9/5/2027,40,2 hours,16:00,3
+8,Thato,22,Mortal Kombat 7,9/5/2027,40,2 hours,16:00,3
+17,Palesa,28,WWE 2K25,9/5/2027,40,2 hours,16:00,5
+5,Tshepo,19,FC25,9/5/2027,10,30 mins,16:00,5
+8,Thato,22,GTA V,9/5/2027,10,30 mins,16:00,4
+19,Bakang,25,GTA V,9/5/2027,10,30 mins,16:00,5
+8,Thato,22,FC25,9/5/2027,20,1 hour,17:00,4
+19,Bakang,25,GTA V,9/5/2027,20,1 hour,17:00,3
+3,Kago,23,Mortal Kombat 7,9/5/2027,20,1 hour,17:00,3
+14,Refilwe,26,FC25,9/5/2027,10,30 mins,17:00,5
+3,Kago,23,Mortal Kombat 7,9/5/2027,10,30 mins,17:00,5
+5,Tshepo,19,Mortal Kombat 7,9/5/2027,10,30 mins,17:00,3
+17,Palesa,28,Mortal Kombat 7,9/5/2027,10,30 mins,17:00,5
+20,Ontiretse,33,Mortal Kombat 7,9/5/2027,10,30 mins,17:00,5
+2,Lerato,20,WWE 2K25,9/5/2027,10,30 mins,17:00,4
+9,Mpho,18,GTA V,9/5/2027,20,1 hour,18:00,4
+20,Ontiretse,33,GTA V,9/5/2027,20,1 hour,18:00,4
+4,Boifihlo,28,WWE 2K25,9/5/2027,10,30 mins,18:00,4
+6,Oretil,17,Mortal Kombat 7,9/4/2027,20,1 hour,7:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/4/2027,20,1 hour,7:00,3
+12,Naledi,18,FC25,9/4/2027,40,2 hours,7:00,5
+18,Tshepang,27,FC25,9/4/2027,40,2 hours,7:00,3
+20,Ontiretse,33,FC25,9/4/2027,40,2 hours,7:00,4
+1,Tumelo,17,WWE 2K25,9/4/2027,40,2 hours,7:00,3
+16,Dimakatso,18,WWE 2K25,9/4/2027,40,2 hours,7:00,3
+2,Lerato,20,Mortal Kombat 7,9/4/2027,20,1 hour,8:00,4
+9,Mpho,18,WWE 2K25,9/4/2027,20,1 hour,8:00,5
+2,Lerato,20,GTA V,9/4/2027,40,2 hours,8:00,5
+13,Phetogo,20,GTA V,9/4/2027,40,2 hours,8:00,3
+18,Tshepang,27,GTA V,9/4/2027,40,2 hours,8:00,5
+3,Kago,23,WWE 2K25,9/4/2027,40,2 hours,8:00,5
+7,Oba,16,WWE 2K25,9/4/2027,20,1 hour,9:00,3
+12,Naledi,18,WWE 2K25,9/4/2027,20,1 hour,9:00,5
+19,Bakang,25,FC25,9/4/2027,40,2 hours,9:00,4
+16,Dimakatso,18,GTA V,9/4/2027,40,2 hours,9:00,4
+5,Tshepo,19,Mortal Kombat 7,9/4/2027,40,2 hours,9:00,4
+9,Mpho,18,Mortal Kombat 7,9/4/2027,40,2 hours,9:00,5
+16,Dimakatso,18,Mortal Kombat 7,9/4/2027,40,2 hours,9:00,5
+2,Lerato,20,WWE 2K25,9/4/2027,40,2 hours,9:00,4
+4,Boifihlo,28,WWE 2K25,9/4/2027,40,2 hours,9:00,3
+2,Lerato,20,GTA V,9/4/2027,10,30 mins,9:00,5
+9,Mpho,18,GTA V,9/4/2027,10,30 mins,9:00,5
+15,Kgomotso,15,GTA V,9/4/2027,20,1 hour,10:00,3
+1,Tumelo,17,Mortal Kombat 7,9/4/2027,20,1 hour,10:00,4
+5,Tshepo,19,Mortal Kombat 7,9/4/2027,20,1 hour,10:00,3
+13,Phetogo,20,WWE 2K25,9/4/2027,10,30 mins,10:00,5
+8,Thato,22,GTA V,9/4/2027,20,1 hour,11:00,3
+10,Kabelo,25,GTA V,9/4/2027,20,1 hour,11:00,4
+15,Kgomotso,15,GTA V,9/4/2027,20,1 hour,11:00,3
+3,Kago,23,WWE 2K25,9/4/2027,20,1 hour,11:00,3
+9,Mpho,18,FC25,9/4/2027,40,2 hours,11:00,3
+12,Naledi,18,FC25,9/4/2027,40,2 hours,11:00,3
+9,Mpho,18,Mortal Kombat 7,9/4/2027,40,2 hours,11:00,3
+16,Dimakatso,18,Mortal Kombat 7,9/4/2027,40,2 hours,11:00,4
+7,Oba,16,WWE 2K25,9/4/2027,40,2 hours,11:00,4
+2,Lerato,20,FC25,9/4/2027,10,30 mins,11:00,4
+12,Naledi,18,FC25,9/4/2027,10,30 mins,11:00,3
+13,Phetogo,20,FC25,9/4/2027,10,30 mins,11:00,3
+10,Kabelo,25,GTA V,9/4/2027,10,30 mins,11:00,5
+6,Oretil,17,WWE 2K25,9/4/2027,10,30 mins,11:00,4
+3,Kago,23,Mortal Kombat 7,9/4/2027,20,1 hour,12:00,5
+19,Bakang,25,WWE 2K25,9/4/2027,20,1 hour,12:00,3
+8,Thato,22,FC25,9/4/2027,40,2 hours,12:00,3
+16,Dimakatso,18,FC25,9/4/2027,40,2 hours,12:00,3
+17,Palesa,28,FC25,9/4/2027,40,2 hours,12:00,5
+6,Oretil,17,GTA V,9/4/2027,10,30 mins,12:00,4
+19,Bakang,25,Mortal Kombat 7,9/4/2027,10,30 mins,12:00,5
+18,Tshepang,27,WWE 2K25,9/4/2027,10,30 mins,12:00,4
+20,Ontiretse,33,FC25,9/4/2027,20,1 hour,13:00,4
+10,Kabelo,25,GTA V,9/4/2027,20,1 hour,13:00,3
+18,Tshepang,27,GTA V,9/4/2027,20,1 hour,13:00,4
+8,Thato,22,GTA V,9/4/2027,40,2 hours,13:00,5
+9,Mpho,18,GTA V,9/4/2027,40,2 hours,13:00,3
+9,Mpho,18,GTA V,9/4/2027,40,2 hours,13:00,4
+11,Neo,21,GTA V,9/4/2027,40,2 hours,13:00,3
+7,Oba,16,FC25,9/4/2027,10,30 mins,13:00,5
+8,Thato,22,FC25,9/4/2027,10,30 mins,13:00,4
+7,Oba,16,Mortal Kombat 7,9/4/2027,10,30 mins,13:00,3
+13,Phetogo,20,Mortal Kombat 7,9/4/2027,10,30 mins,13:00,5
+1,Tumelo,17,FC25,9/4/2027,20,1 hour,14:00,4
+17,Palesa,28,Mortal Kombat 7,9/4/2027,40,2 hours,14:00,5
+3,Kago,23,WWE 2K25,9/4/2027,40,2 hours,14:00,3
+10,Kabelo,25,WWE 2K25,9/4/2027,40,2 hours,14:00,4
+14,Refilwe,26,FC25,9/4/2027,10,30 mins,14:00,5
+7,Oba,16,Mortal Kombat 7,9/4/2027,10,30 mins,14:00,5
+19,Bakang,25,Mortal Kombat 7,9/4/2027,10,30 mins,14:00,3
+7,Oba,16,GTA V,9/4/2027,20,1 hour,15:00,4
+7,Oba,16,Mortal Kombat 7,9/4/2027,20,1 hour,15:00,5
+11,Neo,21,WWE 2K25,9/4/2027,20,1 hour,15:00,5
+1,Tumelo,17,GTA V,9/4/2027,40,2 hours,15:00,5
+17,Palesa,28,WWE 2K25,9/4/2027,40,2 hours,15:00,3
+6,Oretil,17,FC25,9/4/2027,10,30 mins,15:00,4
+18,Tshepang,27,FC25,9/4/2027,10,30 mins,15:00,5
+4,Boifihlo,28,GTA V,9/4/2027,10,30 mins,15:00,4
+9,Mpho,18,Mortal Kombat 7,9/4/2027,10,30 mins,15:00,5
+17,Palesa,28,Mortal Kombat 7,9/4/2027,10,30 mins,15:00,5
+9,Mpho,18,WWE 2K25,9/4/2027,10,30 mins,15:00,4
+13,Phetogo,20,FC25,9/4/2027,20,1 hour,16:00,4
+8,Thato,22,GTA V,9/4/2027,20,1 hour,16:00,3
+14,Refilwe,26,GTA V,9/4/2027,20,1 hour,16:00,3
+10,Kabelo,25,Mortal Kombat 7,9/4/2027,20,1 hour,16:00,4
+7,Oba,16,FC25,9/4/2027,40,2 hours,16:00,5
+3,Kago,23,Mortal Kombat 7,9/4/2027,10,30 mins,16:00,4
+20,Ontiretse,33,Mortal Kombat 7,9/4/2027,10,30 mins,16:00,4
+3,Kago,23,Mortal Kombat 7,9/4/2027,20,1 hour,17:00,4
+16,Dimakatso,18,GTA V,9/4/2027,40,2 hours,17:00,3
+6,Oretil,17,WWE 2K25,9/4/2027,40,2 hours,17:00,4
+18,Tshepang,27,WWE 2K25,9/4/2027,40,2 hours,17:00,4
+20,Ontiretse,33,WWE 2K25,9/4/2027,40,2 hours,17:00,4
+5,Tshepo,19,FC25,9/4/2027,10,30 mins,17:00,4
+4,Boifihlo,28,WWE 2K25,9/4/2027,10,30 mins,17:00,5
+15,Kgomotso,15,WWE 2K25,9/4/2027,10,30 mins,17:00,3
+8,Thato,22,FC25,9/4/2027,20,1 hour,18:00,5
+17,Palesa,28,GTA V,9/4/2027,10,30 mins,18:00,4
+18,Tshepang,27,GTA V,9/4/2027,10,30 mins,18:00,4
+20,Ontiretse,33,GTA V,9/4/2027,10,30 mins,18:00,5
+6,Oretil,17,WWE 2K25,9/3/2027,20,1 hour,7:00,5
+2,Lerato,20,WWE 2K25,9/3/2027,40,2 hours,7:00,3
+18,Tshepang,27,WWE 2K25,9/3/2027,40,2 hours,7:00,4
+3,Kago,23,FC25,9/3/2027,40,2 hours,8:00,4
+9,Mpho,18,GTA V,9/3/2027,40,2 hours,8:00,4
+10,Kabelo,25,GTA V,9/3/2027,40,2 hours,8:00,3
+1,Tumelo,17,WWE 2K25,9/3/2027,40,2 hours,8:00,4
+8,Thato,22,WWE 2K25,9/3/2027,40,2 hours,8:00,4
+10,Kabelo,25,WWE 2K25,9/3/2027,40,2 hours,8:00,5
+17,Palesa,28,WWE 2K25,9/3/2027,40,2 hours,8:00,4
+14,Refilwe,26,Mortal Kombat 7,9/3/2027,10,30 mins,8:00,5
+4,Boifihlo,28,WWE 2K25,9/3/2027,10,30 mins,8:00,3
+11,Neo,21,WWE 2K25,9/3/2027,10,30 mins,8:00,5
+14,Refilwe,26,GTA V,9/3/2027,20,1 hour,9:00,3
+14,Refilwe,26,Mortal Kombat 7,9/3/2027,40,2 hours,9:00,5
+18,Tshepang,27,Mortal Kombat 7,9/3/2027,40,2 hours,9:00,4
+14,Refilwe,26,FC25,9/3/2027,10,30 mins,9:00,5
+6,Oretil,17,Mortal Kombat 7,9/3/2027,10,30 mins,9:00,3
+10,Kabelo,25,Mortal Kombat 7,9/3/2027,10,30 mins,9:00,5
+15,Kgomotso,15,GTA V,9/3/2027,20,1 hour,10:00,3
+5,Tshepo,19,WWE 2K25,9/3/2027,20,1 hour,10:00,4
+8,Thato,22,GTA V,9/3/2027,40,2 hours,10:00,4
+10,Kabelo,25,GTA V,9/3/2027,40,2 hours,10:00,5
+13,Phetogo,20,WWE 2K25,9/3/2027,40,2 hours,10:00,5
+20,Ontiretse,33,FC25,9/3/2027,10,30 mins,10:00,4
+11,Neo,21,WWE 2K25,9/3/2027,10,30 mins,10:00,3
+12,Naledi,18,GTA V,9/3/2027,20,1 hour,11:00,5
+4,Boifihlo,28,Mortal Kombat 7,9/3/2027,20,1 hour,11:00,3
+6,Oretil,17,GTA V,9/3/2027,40,2 hours,11:00,4
+10,Kabelo,25,WWE 2K25,9/3/2027,40,2 hours,11:00,3
+10,Kabelo,25,FC25,9/3/2027,10,30 mins,11:00,5
+13,Phetogo,20,Mortal Kombat 7,9/3/2027,10,30 mins,11:00,3
+12,Naledi,18,WWE 2K25,9/3/2027,20,1 hour,12:00,4
+13,Phetogo,20,FC25,9/3/2027,40,2 hours,12:00,5
+4,Boifihlo,28,Mortal Kombat 7,9/3/2027,40,2 hours,12:00,4
+10,Kabelo,25,Mortal Kombat 7,9/3/2027,40,2 hours,12:00,4
+15,Kgomotso,15,FC25,9/3/2027,10,30 mins,12:00,5
+9,Mpho,18,GTA V,9/3/2027,10,30 mins,12:00,5
+15,Kgomotso,15,GTA V,9/3/2027,40,2 hours,13:00,3
+7,Oba,16,GTA V,9/3/2027,10,30 mins,13:00,3
+1,Tumelo,17,FC25,9/3/2027,20,1 hour,14:00,4
+5,Tshepo,19,WWE 2K25,9/3/2027,20,1 hour,14:00,5
+9,Mpho,18,FC25,9/3/2027,40,2 hours,14:00,4
+4,Boifihlo,28,GTA V,9/3/2027,40,2 hours,14:00,3
+12,Naledi,18,GTA V,9/3/2027,40,2 hours,14:00,4
+15,Kgomotso,15,GTA V,9/3/2027,10,30 mins,14:00,5
+9,Mpho,18,Mortal Kombat 7,9/3/2027,10,30 mins,14:00,4
+17,Palesa,28,Mortal Kombat 7,9/3/2027,10,30 mins,14:00,5
+12,Naledi,18,FC25,9/3/2027,20,1 hour,15:00,4
+13,Phetogo,20,Mortal Kombat 7,9/3/2027,20,1 hour,15:00,4
+16,Dimakatso,18,GTA V,9/3/2027,40,2 hours,15:00,3
+17,Palesa,28,WWE 2K25,9/3/2027,40,2 hours,15:00,4
+6,Oretil,17,FC25,9/3/2027,10,30 mins,15:00,5
+12,Naledi,18,FC25,9/3/2027,10,30 mins,15:00,4
+19,Bakang,25,FC25,9/3/2027,10,30 mins,15:00,5
+2,Lerato,20,GTA V,9/3/2027,20,1 hour,16:00,4
+8,Thato,22,GTA V,9/3/2027,20,1 hour,16:00,4
+3,Kago,23,WWE 2K25,9/3/2027,40,2 hours,16:00,3
+5,Tshepo,19,FC25,9/3/2027,10,30 mins,16:00,4
+19,Bakang,25,GTA V,9/3/2027,10,30 mins,16:00,5
+9,Mpho,18,Mortal Kombat 7,9/3/2027,10,30 mins,16:00,4
+3,Kago,23,WWE 2K25,9/3/2027,20,1 hour,17:00,5
+6,Oretil,17,Mortal Kombat 7,9/3/2027,10,30 mins,17:00,4
+19,Bakang,25,FC25,9/3/2027,20,1 hour,18:00,4
+12,Naledi,18,GTA V,9/3/2027,20,1 hour,18:00,5
+4,Boifihlo,28,FC25,9/3/2027,10,30 mins,18:00,3
+10,Kabelo,25,FC25,9/3/2027,10,30 mins,18:00,3
+18,Tshepang,27,Mortal Kombat 7,9/3/2027,10,30 mins,18:00,4
+3,Kago,23,WWE 2K25,9/2/2027,20,1 hour,7:00,5
+1,Tumelo,17,FC25,9/2/2027,40,2 hours,7:00,4
+10,Kabelo,25,FC25,9/2/2027,10,30 mins,7:00,3
+12,Naledi,18,FC25,9/2/2027,10,30 mins,7:00,4
+17,Palesa,28,GTA V,9/2/2027,20,1 hour,8:00,3
+11,Neo,21,GTA V,9/2/2027,20,1 hour,9:00,4
+9,Mpho,18,WWE 2K25,9/2/2027,40,2 hours,9:00,5
+10,Kabelo,25,WWE 2K25,9/2/2027,40,2 hours,9:00,4
+16,Dimakatso,18,WWE 2K25,9/2/2027,40,2 hours,9:00,5
+14,Refilwe,26,Mortal Kombat 7,9/2/2027,10,30 mins,9:00,3
+9,Mpho,18,WWE 2K25,9/2/2027,10,30 mins,9:00,5
+14,Refilwe,26,GTA V,9/2/2027,20,1 hour,10:00,3
+1,Tumelo,17,FC25,9/2/2027,40,2 hours,10:00,4
+7,Oba,16,FC25,9/2/2027,40,2 hours,10:00,4
+9,Mpho,18,FC25,9/2/2027,40,2 hours,10:00,5
+14,Refilwe,26,GTA V,9/2/2027,40,2 hours,10:00,4
+20,Ontiretse,33,FC25,9/2/2027,10,30 mins,10:00,5
+12,Naledi,18,Mortal Kombat 7,9/2/2027,10,30 mins,10:00,4
+8,Thato,22,GTA V,9/2/2027,20,1 hour,11:00,5
+1,Tumelo,17,WWE 2K25,9/2/2027,20,1 hour,11:00,5
+15,Kgomotso,15,WWE 2K25,9/2/2027,20,1 hour,11:00,4
+2,Lerato,20,FC25,9/2/2027,40,2 hours,11:00,4
+10,Kabelo,25,GTA V,9/2/2027,40,2 hours,11:00,5
+20,Ontiretse,33,GTA V,9/2/2027,10,30 mins,11:00,3
+2,Lerato,20,Mortal Kombat 7,9/2/2027,10,30 mins,11:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/2/2027,10,30 mins,11:00,3
+8,Thato,22,WWE 2K25,9/2/2027,10,30 mins,11:00,4
+11,Neo,21,FC25,9/2/2027,20,1 hour,12:00,5
+19,Bakang,25,WWE 2K25,9/2/2027,40,2 hours,12:00,5
+6,Oretil,17,GTA V,9/2/2027,20,1 hour,13:00,5
+10,Kabelo,25,GTA V,9/2/2027,20,1 hour,13:00,4
+14,Refilwe,26,FC25,9/2/2027,40,2 hours,13:00,3
+12,Naledi,18,WWE 2K25,9/2/2027,40,2 hours,13:00,5
+13,Phetogo,20,WWE 2K25,9/2/2027,40,2 hours,13:00,3
+10,Kabelo,25,FC25,9/2/2027,10,30 mins,13:00,3
+2,Lerato,20,Mortal Kombat 7,9/2/2027,10,30 mins,13:00,3
+6,Oretil,17,Mortal Kombat 7,9/2/2027,10,30 mins,13:00,5
+16,Dimakatso,18,GTA V,9/2/2027,20,1 hour,14:00,3
+10,Kabelo,25,Mortal Kombat 7,9/2/2027,40,2 hours,14:00,3
+19,Bakang,25,FC25,9/2/2027,20,1 hour,15:00,4
+15,Kgomotso,15,Mortal Kombat 7,9/2/2027,20,1 hour,15:00,3
+8,Thato,22,WWE 2K25,9/2/2027,20,1 hour,15:00,4
+6,Oretil,17,FC25,9/2/2027,40,2 hours,15:00,5
+9,Mpho,18,GTA V,9/2/2027,40,2 hours,15:00,5
+2,Lerato,20,WWE 2K25,9/2/2027,40,2 hours,15:00,3
+20,Ontiretse,33,FC25,9/2/2027,10,30 mins,15:00,5
+14,Refilwe,26,GTA V,9/2/2027,10,30 mins,15:00,5
+18,Tshepang,27,Mortal Kombat 7,9/2/2027,10,30 mins,15:00,4
+20,Ontiretse,33,WWE 2K25,9/2/2027,10,30 mins,15:00,4
+10,Kabelo,25,GTA V,9/2/2027,20,1 hour,16:00,4
+4,Boifihlo,28,GTA V,9/2/2027,20,1 hour,17:00,3
+6,Oretil,17,FC25,9/2/2027,40,2 hours,17:00,3
+12,Naledi,18,WWE 2K25,9/2/2027,40,2 hours,17:00,4
+6,Oretil,17,Mortal Kombat 7,9/2/2027,10,30 mins,17:00,3
+6,Oretil,17,FC25,9/2/2027,20,1 hour,18:00,4
+18,Tshepang,27,GTA V,9/2/2027,10,30 mins,18:00,4
+20,Ontiretse,33,Mortal Kombat 7,9/2/2027,10,30 mins,18:00,3
+9,Mpho,18,WWE 2K25,9/2/2027,10,30 mins,18:00,4
+1,Tumelo,17,FC25,9/1/2027,20,1 hour,7:00,3
+15,Kgomotso,15,WWE 2K25,9/1/2027,20,1 hour,7:00,3
+20,Ontiretse,33,Mortal Kombat 7,9/1/2027,10,30 mins,7:00,3
+7,Oba,16,FC25,9/1/2027,40,2 hours,8:00,4
+9,Mpho,18,FC25,9/1/2027,40,2 hours,8:00,4
+16,Dimakatso,18,FC25,9/1/2027,40,2 hours,8:00,3
+11,Neo,21,GTA V,9/1/2027,40,2 hours,8:00,4
+12,Naledi,18,Mortal Kombat 7,9/1/2027,40,2 hours,8:00,3
+13,Phetogo,20,FC25,9/1/2027,10,30 mins,8:00,3
+18,Tshepang,27,WWE 2K25,9/1/2027,10,30 mins,8:00,5
+7,Oba,16,GTA V,9/1/2027,20,1 hour,9:00,4
+4,Boifihlo,28,WWE 2K25,9/1/2027,20,1 hour,9:00,5
+10,Kabelo,25,WWE 2K25,9/1/2027,20,1 hour,9:00,3
+4,Boifihlo,28,FC25,9/1/2027,40,2 hours,9:00,5
+1,Tumelo,17,WWE 2K25,9/1/2027,40,2 hours,9:00,3
+3,Kago,23,WWE 2K25,9/1/2027,40,2 hours,10:00,5
+4,Boifihlo,28,WWE 2K25,9/1/2027,40,2 hours,10:00,4
+4,Boifihlo,28,GTA V,9/1/2027,20,1 hour,11:00,3
+13,Phetogo,20,GTA V,9/1/2027,20,1 hour,11:00,3
+4,Boifihlo,28,FC25,9/1/2027,40,2 hours,11:00,3
+7,Oba,16,FC25,9/1/2027,40,2 hours,11:00,4
+15,Kgomotso,15,FC25,9/1/2027,40,2 hours,11:00,4
+20,Ontiretse,33,FC25,9/1/2027,40,2 hours,11:00,3
+6,Oretil,17,Mortal Kombat 7,9/1/2027,40,2 hours,11:00,3
+13,Phetogo,20,FC25,9/1/2027,10,30 mins,11:00,5
+2,Lerato,20,Mortal Kombat 7,9/1/2027,10,30 mins,11:00,4
+9,Mpho,18,WWE 2K25,9/1/2027,40,2 hours,12:00,3
+9,Mpho,18,FC25,9/1/2027,40,2 hours,13:00,4
+2,Lerato,20,GTA V,9/1/2027,40,2 hours,13:00,3
+9,Mpho,18,GTA V,9/1/2027,40,2 hours,13:00,4
+8,Thato,22,GTA V,9/1/2027,10,30 mins,13:00,4
+11,Neo,21,Mortal Kombat 7,9/1/2027,10,30 mins,13:00,5
+7,Oba,16,FC25,9/1/2027,20,1 hour,14:00,5
+15,Kgomotso,15,GTA V,9/1/2027,20,1 hour,14:00,5
+5,Tshepo,19,Mortal Kombat 7,9/1/2027,20,1 hour,14:00,3
+15,Kgomotso,15,FC25,9/1/2027,40,2 hours,14:00,5
+11,Neo,21,GTA V,9/1/2027,10,30 mins,14:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/1/2027,10,30 mins,14:00,5
+16,Dimakatso,18,WWE 2K25,9/1/2027,10,30 mins,14:00,4
+2,Lerato,20,FC25,9/1/2027,20,1 hour,15:00,3
+8,Thato,22,GTA V,9/1/2027,20,1 hour,15:00,3
+17,Palesa,28,GTA V,9/1/2027,20,1 hour,15:00,3
+4,Boifihlo,28,Mortal Kombat 7,9/1/2027,20,1 hour,15:00,3
+5,Tshepo,19,WWE 2K25,9/1/2027,20,1 hour,15:00,3
+6,Oretil,17,Mortal Kombat 7,9/1/2027,40,2 hours,15:00,4
+11,Neo,21,WWE 2K25,9/1/2027,40,2 hours,15:00,4
+8,Thato,22,FC25,9/1/2027,10,30 mins,15:00,4
+12,Naledi,18,FC25,9/1/2027,10,30 mins,15:00,3
+13,Phetogo,20,FC25,9/1/2027,20,1 hour,16:00,4
+15,Kgomotso,15,Mortal Kombat 7,9/1/2027,20,1 hour,16:00,4
+16,Dimakatso,18,FC25,9/1/2027,40,2 hours,16:00,4
+18,Tshepang,27,GTA V,9/1/2027,40,2 hours,16:00,5
+2,Lerato,20,FC25,9/1/2027,10,30 mins,16:00,5
+17,Palesa,28,FC25,9/1/2027,10,30 mins,16:00,3
+16,Dimakatso,18,GTA V,9/1/2027,20,1 hour,17:00,3
+13,Phetogo,20,Mortal Kombat 7,9/1/2027,20,1 hour,17:00,4
+10,Kabelo,25,FC25,9/1/2027,40,2 hours,17:00,5
+9,Mpho,18,GTA V,9/1/2027,10,30 mins,17:00,3
+17,Palesa,28,WWE 2K25,9/1/2027,10,30 mins,17:00,3
+10,Kabelo,25,FC25,9/1/2027,20,1 hour,18:00,3
+9,Mpho,18,GTA V,9/1/2027,20,1 hour,18:00,4
+11,Neo,21,WWE 2K25,9/1/2027,20,1 hour,18:00,4
+7,Oba,16,GTA V,9/1/2027,10,30 mins,18:00,4
+4,Boifihlo,28,FC25,9/24/2027,20,1 hour,7:00,3
+10,Kabelo,25,FC25,9/25/2027,20,1 hour,7:00,5
+15,Kgomotso,15,FC25,9/26/2027,20,1 hour,7:00,4
+9,Mpho,18,Mortal Kombat 7,9/27/2027,20,1 hour,7:00,4
+15,Kgomotso,15,WWE 2K25,9/28/2027,20,1 hour,7:00,3
+7,Oba,16,FC25,9/29/2027,40,2 hours,7:00,3
+1,Tumelo,17,GTA V,9/30/2027,40,2 hours,7:00,4
+5,Tshepo,19,FC25,9/24/2027,10,30 mins,7:00,5
+9,Mpho,18,GTA V,9/25/2027,40,2 hours,8:00,3
+4,Boifihlo,28,FC25,9/26/2027,40,2 hours,8:00,4
+12,Naledi,18,GTA V,9/27/2027,40,2 hours,8:00,4
+15,Kgomotso,15,WWE 2K25,9/28/2027,10,30 mins,8:00,4
+9,Mpho,18,Mortal Kombat 7,9/29/2027,10,30 mins,8:00,3
+17,Palesa,28,Mortal Kombat 7,9/30/2027,10,30 mins,8:00,3
+12,Naledi,18,Mortal Kombat 7,9/24/2027,10,30 mins,8:00,5
+13,Phetogo,20,WWE 2K25,9/25/2027,20,1 hour,9:00,4
+16,Dimakatso,18,FC25,9/26/2027,10,30 mins,9:00,3
+17,Palesa,28,Mortal Kombat 7,9/27/2027,20,1 hour,10:00,4
+6,Oretil,17,Mortal Kombat 7,9/28/2027,20,1 hour,10:00,3
+12,Naledi,18,Mortal Kombat 7,9/29/2027,40,2 hours,10:00,4
+19,Bakang,25,Mortal Kombat 7,9/30/2027,40,2 hours,10:00,4
+2,Lerato,20,Mortal Kombat 7,9/24/2027,10,30 mins,10:00,5
+8,Thato,22,Mortal Kombat 7,9/25/2027,10,30 mins,10:00,5
+3,Kago,23,FC25,9/26/2027,20,1 hour,11:00,5
+5,Tshepo,19,WWE 2K25,9/27/2027,20,1 hour,11:00,3
+19,Bakang,25,WWE 2K25,9/28/2027,40,2 hours,11:00,5
+9,Mpho,18,WWE 2K25,9/29/2027,40,2 hours,11:00,3
+3,Kago,23,WWE 2K25,9/30/2027,10,30 mins,11:00,5
+6,Oretil,17,WWE 2K25,9/24/2027,10,30 mins,11:00,4
+19,Bakang,25,WWE 2K25,9/25/2027,10,30 mins,12:00,3
+12,Naledi,18,WWE 2K25,9/26/2027,10,30 mins,12:00,3
+4,Boifihlo,28,WWE 2K25,9/27/2027,40,2 hours,13:00,3
+10,Kabelo,25,WWE 2K25,9/28/2027,10,30 mins,13:00,3
+18,Tshepang,27,FC25,9/29/2027,10,30 mins,13:00,3
+3,Kago,23,FC25,9/30/2027,10,30 mins,13:00,4
+1,Tumelo,17,FC25,9/24/2027,20,1 hour,14:00,4
+10,Kabelo,25,FC25,9/24/2027,20,1 hour,14:00,4
+12,Naledi,18,FC25,9/24/2027,20,1 hour,14:00,3
+17,Palesa,28,GTA V,9/24/2027,20,1 hour,14:00,4
+11,Neo,21,GTA V,9/24/2027,40,2 hours,14:00,4
+9,Mpho,18,GTA V,9/24/2027,40,2 hours,14:00,4
+10,Kabelo,25,GTA V,9/24/2027,40,2 hours,14:00,5
+16,Dimakatso,18,GTA V,9/24/2027,10,30 mins,14:00,5
+14,Refilwe,26,GTA V,9/24/2027,20,1 hour,15:00,3
+9,Mpho,18,GTA V,9/24/2027,20,1 hour,15:00,3
+14,Refilwe,26,GTA V,9/24/2027,20,1 hour,15:00,4
+1,Tumelo,17,GTA V,9/24/2027,40,2 hours,15:00,5
+7,Oba,16,GTA V,9/24/2027,40,2 hours,15:00,3
+9,Mpho,18,GTA V,9/24/2027,10,30 mins,15:00,3
+14,Refilwe,26,FC25,9/24/2027,10,30 mins,15:00,3
+20,Ontiretse,33,FC25,9/25/2027,10,30 mins,15:00,4
+12,Naledi,18,FC25,9/25/2027,20,1 hour,16:00,4
+8,Thato,22,Mortal Kombat 7,9/25/2027,40,2 hours,16:00,4
+1,Tumelo,17,Mortal Kombat 7,9/25/2027,40,2 hours,16:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/25/2027,10,30 mins,16:00,5
+2,Lerato,20,Mortal Kombat 7,9/25/2027,10,30 mins,16:00,4
+10,Kabelo,25,Mortal Kombat 7,9/25/2027,20,1 hour,17:00,4
+20,Ontiretse,33,Mortal Kombat 7,9/25/2027,20,1 hour,17:00,3
+2,Lerato,20,Mortal Kombat 7,9/25/2027,40,2 hours,17:00,3
+15,Kgomotso,15,Mortal Kombat 7,9/25/2027,40,2 hours,17:00,4
+8,Thato,22,Mortal Kombat 7,9/25/2027,10,30 mins,17:00,5
+11,Neo,21,FC25,9/25/2027,20,1 hour,18:00,3
+19,Bakang,25,FC25,9/25/2027,20,1 hour,18:00,1
+6,Oretil,17,FC25,9/25/2027,10,30 mins,18:00,2
+10,Kabelo,25,FC25,9/25/2027,10,30 mins,18:00,4
+14,Refilwe,26,FC25,9/25/2027,20,1 hour,7:00,3
+12,Naledi,18,FC25,9/25/2027,40,2 hours,7:00,1
+13,Phetogo,20,FC25,9/25/2027,20,1 hour,8:00,3
+10,Kabelo,25,FC25,9/25/2027,40,2 hours,8:00,2
+2,Lerato,20,FC25,9/25/2027,40,2 hours,8:00,4
+6,Oretil,17,FC25,9/25/2027,20,1 hour,9:00,5
+16,Dimakatso,18,FC25,9/25/2027,40,2 hours,9:00,3
+10,Kabelo,25,FC25,9/25/2027,40,2 hours,9:00,1
+19,Bakang,25,FC25,9/25/2027,40,2 hours,9:00,2
+15,Kgomotso,15,FC25,9/25/2027,40,2 hours,9:00,4
+8,Thato,22,GTA V,9/25/2027,20,1 hour,10:00,3
+6,Oretil,17,GTA V,9/25/2027,40,2 hours,10:00,1
+9,Mpho,18,GTA V,9/25/2027,40,2 hours,10:00,3
+2,Lerato,20,GTA V,9/26/2027,40,2 hours,10:00,2
+20,Ontiretse,33,GTA V,9/26/2027,10,30 mins,10:00,4
+14,Refilwe,26,GTA V,9/26/2027,20,1 hour,11:00,4
+18,Tshepang,27,FC25,9/26/2027,20,1 hour,11:00,4
+20,Ontiretse,33,FC25,9/26/2027,40,2 hours,11:00,3
+10,Kabelo,25,FC25,9/26/2027,40,2 hours,11:00,3
+4,Boifihlo,28,FC25,9/26/2027,40,2 hours,11:00,5
+3,Kago,23,FC25,9/26/2027,10,30 mins,11:00,4
+4,Boifihlo,28,FC25,9/26/2027,20,1 hour,12:00,3
+4,Boifihlo,28,FC25,9/26/2027,40,2 hours,12:00,4
+13,Phetogo,20,FC25,9/26/2027,10,30 mins,12:00,3
+4,Boifihlo,28,FC25,9/26/2027,10,30 mins,12:00,4
+7,Oba,16,FC25,9/26/2027,10,30 mins,12:00,4
+15,Kgomotso,15,FC25,9/26/2027,20,1 hour,13:00,5
+20,Ontiretse,33,WWE 2K25,9/26/2027,20,1 hour,13:00,5
+6,Oretil,17,WWE 2K25,9/26/2027,20,1 hour,13:00,5
+13,Phetogo,20,WWE 2K25,9/26/2027,40,2 hours,13:00,3
+2,Lerato,20,WWE 2K25,9/26/2027,20,1 hour,14:00,5
+9,Mpho,18,WWE 2K25,9/26/2027,20,1 hour,14:00,3
+9,Mpho,18,FC25,9/26/2027,20,1 hour,14:00,5
+2,Lerato,20,FC25,9/26/2027,20,1 hour,14:00,4
+9,Mpho,18,FC25,9/26/2027,40,2 hours,14:00,3
+8,Thato,22,FC25,9/26/2027,40,2 hours,14:00,3
+11,Neo,21,FC25,9/26/2027,40,2 hours,14:00,3
+7,Oba,16,FC25,9/26/2027,40,2 hours,14:00,3
+15,Kgomotso,15,FC25,9/26/2027,40,2 hours,14:00,3
+5,Tshepo,19,FC25,9/26/2027,10,30 mins,14:00,4
+15,Kgomotso,15,FC25,9/26/2027,10,30 mins,14:00,4
+11,Neo,21,FC25,9/26/2027,20,1 hour,15:00,4
+15,Kgomotso,15,FC25,9/26/2027,20,1 hour,16:00,3
+16,Dimakatso,18,FC25,9/27/2027,20,1 hour,16:00,4
+2,Lerato,20,FC25,9/27/2027,40,2 hours,16:00,4
+8,Thato,22,FC25,9/27/2027,40,2 hours,16:00,4
+17,Palesa,28,FC25,9/27/2027,40,2 hours,16:00,5
+4,Boifihlo,28,FC25,9/27/2027,40,2 hours,16:00,5
+5,Tshepo,19,FC25,9/27/2027,10,30 mins,16:00,3
+6,Oretil,17,FC25,9/27/2027,10,30 mins,16:00,3
+11,Neo,21,FC25,9/27/2027,40,2 hours,17:00,4
+8,Thato,22,FC25,9/27/2027,40,2 hours,17:00,5
+12,Naledi,18,FC25,9/27/2027,10,30 mins,17:00,3
+13,Phetogo,20,FC25,9/27/2027,20,1 hour,18:00,3
+15,Kgomotso,15,FC25,9/27/2027,20,1 hour,18:00,3
+16,Dimakatso,18,FC25,9/28/2027,10,30 mins,18:00,4
+18,Tshepang,27,FC25,9/28/2027,10,30 mins,18:00,4
+2,Lerato,20,FC25,9/28/2027,20,1 hour,7:00,4
+17,Palesa,28,FC25,9/28/2027,40,2 hours,7:00,4
+16,Dimakatso,18,FC25,9/28/2027,10,30 mins,7:00,3
+13,Phetogo,20,GTA V,9/28/2027,10,30 mins,7:00,3
+10,Kabelo,25,GTA V,9/28/2027,10,30 mins,7:00,5
+9,Mpho,18,GTA V,9/28/2027,20,1 hour,8:00,4
+17,Palesa,28,FC25,9/28/2027,20,1 hour,8:00,3
+10,Kabelo,25,FC25,9/28/2027,40,2 hours,8:00,4
+9,Mpho,18,FC25,9/28/2027,40,2 hours,8:00,3
+11,Neo,21,FC25,9/28/2027,40,2 hours,8:00,4
+7,Oba,16,FC25,9/28/2027,10,30 mins,8:00,4
+4,Boifihlo,28,FC25,9/28/2027,10,30 mins,8:00,5
+10,Kabelo,25,FC25,9/28/2027,20,1 hour,9:00,5
+15,Kgomotso,15,FC25,9/28/2027,20,1 hour,9:00,5
+9,Mpho,18,FC25,9/28/2027,20,1 hour,9:00,3
+15,Kgomotso,15,FC25,9/28/2027,20,1 hour,9:00,5
+7,Oba,16,FC25,9/28/2027,40,2 hours,9:00,3
+1,Tumelo,17,FC25,9/28/2027,10,30 mins,9:00,5
+5,Tshepo,19,FC25,9/28/2027,10,30 mins,9:00,4
+9,Mpho,18,FC25,9/28/2027,20,1 hour,10:00,3
+4,Boifihlo,28,FC25,9/28/2027,10,30 mins,10:00,3
+12,Naledi,18,FC25,9/28/2027,20,1 hour,11:00,3
+15,Kgomotso,15,FC25,9/28/2027,10,30 mins,11:00,3
+9,Mpho,18,FC25,9/28/2027,10,30 mins,11:00,3
+17,Palesa,28,FC25,9/28/2027,20,1 hour,12:00,4
+12,Naledi,18,FC25,9/28/2027,20,1 hour,12:00,4
+13,Phetogo,20,FC25,9/29/2027,20,1 hour,12:00,4
+16,Dimakatso,18,FC25,9/29/2027,40,2 hours,12:00,3
+17,Palesa,28,FC25,9/29/2027,40,2 hours,12:00,4
+6,Oretil,17,FC25,9/29/2027,10,30 mins,12:00,4
+12,Naledi,18,FC25,9/29/2027,10,30 mins,12:00,4
+19,Bakang,25,FC25,9/29/2027,40,2 hours,13:00,5
+2,Lerato,20,FC25,9/29/2027,40,2 hours,13:00,5
+8,Thato,22,FC25,9/29/2027,10,30 mins,13:00,3
+3,Kago,23,FC25,9/29/2027,10,30 mins,13:00,3
+5,Tshepo,19,FC25,9/29/2027,20,1 hour,14:00,4
+19,Bakang,25,FC25,9/29/2027,40,2 hours,14:00,5
+9,Mpho,18,FC25,9/29/2027,40,2 hours,14:00,3
+3,Kago,23,FC25,9/29/2027,10,30 mins,14:00,3
+6,Oretil,17,FC25,9/29/2027,10,30 mins,14:00,3
+19,Bakang,25,FC25,9/29/2027,10,30 mins,14:00,4
+12,Naledi,18,FC25,9/29/2027,20,1 hour,15:00,4
+4,Boifihlo,28,FC25,9/29/2027,20,1 hour,15:00,4
+10,Kabelo,25,FC25,9/29/2027,40,2 hours,15:00,4
+18,Tshepang,27,FC25,9/29/2027,40,2 hours,15:00,3
+3,Kago,23,FC25,9/29/2027,40,2 hours,15:00,3
+1,Tumelo,17,FC25,9/29/2027,10,30 mins,15:00,5
+10,Kabelo,25,FC25,9/29/2027,20,1 hour,16:00,4
+16,Dimakatso,18,FC25,9/29/2027,20,1 hour,16:00,3
+10,Kabelo,25,FC25,9/29/2027,20,1 hour,16:00,4
+19,Bakang,25,FC25,9/29/2027,20,1 hour,16:00,3
+15,Kgomotso,15,FC25,9/30/2027,40,2 hours,16:00,4
+8,Thato,22,FC25,9/30/2027,40,2 hours,16:00,4
+6,Oretil,17,FC25,9/30/2027,10,30 mins,16:00,5
+9,Mpho,18,FC25,9/30/2027,10,30 mins,16:00,5
+2,Lerato,20,FC25,9/30/2027,20,1 hour,17:00,5
+20,Ontiretse,33,FC25,9/30/2027,40,2 hours,17:00,3
+14,Refilwe,26,FC25,9/30/2027,10,30 mins,17:00,5
+18,Tshepang,27,FC25,9/30/2027,20,1 hour,18:00,3
+20,Ontiretse,33,FC25,9/30/2027,10,30 mins,18:00,5
+10,Kabelo,25,FC25,9/30/2027,10,30 mins,18:00,4
+4,Boifihlo,28,FC25,9/30/2027,20,1 hour,7:00,3
+6,Oretil,17,FC25,9/30/2027,20,1 hour,7:00,3
+12,Naledi,18,FC25,9/30/2027,40,2 hours,7:00,3
+6,Oretil,17,FC25,9/30/2027,40,2 hours,7:00,3
+6,Oretil,17,FC25,9/30/2027,20,1 hour,8:00,3
+18,Tshepang,27,GTA V,9/30/2027,20,1 hour,8:00,4
+20,Ontiretse,33,GTA V,9/30/2027,10,30 mins,8:00,4
+9,Mpho,18,GTA V,9/30/2027,10,30 mins,8:00,4
+1,Tumelo,17,FC25,9/30/2027,10,30 mins,8:00,3
+15,Kgomotso,15,FC25,9/30/2027,20,1 hour,9:00,4
+20,Ontiretse,33,FC25,9/30/2027,40,2 hours,9:00,4
+7,Oba,16,FC25,9/30/2027,40,2 hours,9:00,4
+9,Mpho,18,FC25,9/30/2027,10,30 mins,9:00,5
+16,Dimakatso,18,FC25,9/30/2027,20,1 hour,10:00,5
+11,Neo,21,FC25,9/30/2027,20,1 hour,10:00,3
+12,Naledi,18,FC25,9/30/2027,40,2 hours,10:00,3
+13,Phetogo,20,FC25,9/30/2027,40,2 hours,10:00,4
+18,Tshepang,27,FC25,9/30/2027,10,30 mins,10:00,5
+7,Oba,16,FC25,9/30/2027,20,1 hour,11:00,3
+4,Boifihlo,28,FC25,9/30/2027,20,1 hour,11:00,3
+10,Kabelo,25,WWE 2K25,9/30/2027,10,30 mins,11:00,3
+4,Boifihlo,28,WWE 2K25,9/30/2027,20,1 hour,12:00,4
+1,Tumelo,17,WWE 2K25,9/30/2027,20,1 hour,12:00,1
