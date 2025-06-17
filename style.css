@@ -1,0 +1,100 @@
+/* General background and text color */
+body, .stApp, .main, .block-container {
+    background-color: #18191a !important;
+    color: #f5f6fa !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #f5f6fa !important;
+    font-family: 'Segoe UI', Arial, sans-serif !important;
+}
+
+/* Subheaders and section titles */
+.stMarkdown {
+    color: #bbbbbb !important;
+    font-size: 1.1em !important;
+    font-weight: 500 !important;
+}
+
+/* KPI Card Styling for Streamlit Metrics */
+.stMetric {
+    background-color: #23272b !important;
+    border-radius: 16px;
+    padding: 22px 28px;
+    color: #E0E0E0 !important;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4) !important;
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100%;
+    border: 1px solid rgba(70,70,70,0.5);
+    min-width: 180px;
+}
+
+.stMetric > div:first-child {
+    font-size: 1.2em !important;
+    font-weight: 600 !important;
+    color: #FFCA28 !important; /* Gold for KPI labels */
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.stMetric > div:last-child {
+    font-size: 2.0em !important;
+    font-weight: 700 !important;
+    color: #FFFFFF !important;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+}
+
+/* DataFrames and Tables */
+.stDataFrame, .stTable {
+    background-color: #222 !important;
+    color: #f5f6fa !important;
+    border-radius: 12px;
+    font-size: 1em !important;
+    margin-bottom: 18px;
+}
+
+/* Plotly Chart Container */
+.stPlotlyChart {
+    background-color: #23272b !important;
+    border-radius: 16px;
+    margin-bottom: 25px;
+    padding: 6px;
+}
+
+/* Sidebar styling */
+.st-emotion-cache-vk3ypu {
+    background-color: #212121 !important;
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 2px 0px 12px rgba(0,0,0,0.5);
+}
+
+.st-emotion-cache-vk3ypu h2 {
+    color: #FFCA28 !important;
+    font-size: 1.3em !important;
+}
+
+.st-emotion-cache-vk3ypu label {
+    color: #E0E0E0 !important;
+    font-weight: bold;
+    font-size: 1.1em !important;
+}
+
+/* Remove Streamlit's default blue focus ring for a cleaner look */
+*:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Optional: Make icons in metrics bigger and more visible */
+.stMetric svg {
+    width: 1.7em !important;
+    height: 1.7em !important;
+    margin-right: 8px;
+    vertical-align: middle;
+}
